@@ -6,12 +6,12 @@
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/auto_pause_settings_dialog.cpp" line="219"/>
         <source>&amp;Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ok</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/auto_pause_settings_dialog.cpp" line="220"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Anuluj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/auto_pause_settings_dialog.cpp" line="224"/>
@@ -31,7 +31,7 @@
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/auto_pause_settings_dialog.cpp" line="285"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/auto_pause_settings_dialog.cpp" line="285"/>
@@ -44,12 +44,12 @@
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rsx_debugger.cpp" line="382"/>
         <source>Save Image At</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zapisz obraz w</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rsx_debugger.cpp" line="388"/>
         <source>Save Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz Obraz</translation>
     </message>
 </context>
 <context>
@@ -94,85 +94,85 @@
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.cpp" line="28"/>
         <source>%0 and %1</source>
         <comment>Days and hours</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.cpp" line="36"/>
         <source>%0 and %1</source>
         <comment>Hours and minutes</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.cpp" line="42"/>
         <source>%0 and %1</source>
         <comment>Minutes and seconds</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.cpp" line="74"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="61"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nieznane</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.cpp" line="82"/>
         <source>480</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.cpp" line="83"/>
         <source>576</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.cpp" line="84"/>
         <source>720</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.cpp" line="85"/>
         <source>1080</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.cpp" line="86"/>
         <source>480 16:9</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.cpp" line="87"/>
         <source>576 16:9</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.cpp" line="94"/>
         <source>LPCM 2.0</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.cpp" line="95"/>
         <source>LPCM 5.1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.cpp" line="96"/>
         <source>LPCM 7.1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.cpp" line="97"/>
         <source>Dolby Digital 5.1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.cpp" line="98"/>
         <source>DTS 5.1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.cpp" line="105"/>
         <source>The PS3 Interface (XMB, or VSH)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Interfejs PS3 (XMB/VSH)</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="25"/>
@@ -182,7 +182,7 @@
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="26"/>
         <source>Photo App</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aplikacja do zdjęć</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="27"/>
@@ -197,7 +197,7 @@
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="29"/>
         <source>Video App</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aplikacja wideo</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="30"/>
@@ -207,12 +207,12 @@
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="31"/>
         <source>Disc Game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gra Pudełkowa</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="32"/>
         <source>HDD Game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gra Cyfrowa</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="33"/>
@@ -222,12 +222,12 @@
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="34"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sieć</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="35"/>
         <source>Store</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sklep</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="36"/>
@@ -237,27 +237,27 @@
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="37"/>
         <source>Operating System</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">System Operacyjny</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="40"/>
         <source>PS2 Classics</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="41"/>
         <source>PS2 Game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gra PS2</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="44"/>
         <source>PS1 Classics</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="47"/>
         <source>PSP Game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gra PSP</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="48"/>
@@ -267,92 +267,92 @@
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="49"/>
         <source>PSP Remasters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Remastery PSP</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="52"/>
         <source>PS3 Game Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dane Gry PS3</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="53"/>
         <source>PS2 Emulator Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dane emulatora PS2</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="56"/>
         <source>PS3 Save Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zapisane dane PS3</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="57"/>
         <source>PSP Minis Save Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dane zapisu PSP Minis</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="60"/>
         <source>Trophy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trofeum</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="62"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Inne</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="102"/>
         <source>0+</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="103"/>
         <source>3+</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="104"/>
         <source>7+</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="105"/>
         <source>10+</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="106"/>
         <source>12+</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="107"/>
         <source>15+</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="108"/>
         <source>16+</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="109"/>
         <source>17+</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="110"/>
         <source>18+</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="111"/>
         <source>Level 10</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="112"/>
         <source>Level 11</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2057,7 +2057,7 @@ Restart of the game is required to apply. You can enable/disable this in the set
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/basic_mouse_settings_dialog.cpp" line="48"/>
         <source>Reset all settings?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zresetować wszystkie ustawienia?</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/basic_mouse_settings_dialog.cpp" line="91"/>
@@ -2560,12 +2560,12 @@ File was too small.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/downloader.cpp" line="116"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Proszę czekaj...</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/downloader.cpp" line="116"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj</translation>
     </message>
 </context>
 <context>
@@ -3113,7 +3113,7 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1038"/>
         <source>PS Eye</source>
         <comment>Camera type</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1039"/>
@@ -3125,7 +3125,7 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1045"/>
         <source>No</source>
         <comment>Camera flip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1046"/>
@@ -3203,7 +3203,7 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1078"/>
         <source>Mouse</source>
         <comment>Move handler</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Myszka</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1079"/>
@@ -3299,7 +3299,7 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1121"/>
         <source>RPCN</source>
         <comment>PSN Status</comment>
-        <translation type="unfinished">RPCN</translation>
+        <translation>RPCN</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1127"/>
@@ -4019,7 +4019,7 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1338"/>
         <source>Keyboard</source>
         <comment>Midi Device Type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Klawiatura</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1339"/>
@@ -4111,17 +4111,17 @@ This change will only be final when you save the config.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/fatal_error_dialog.cpp" line="38"/>
         <source>HOW TO REPORT ERRORS:</source>
-        <translation type="unfinished"></translation>
+        <translation>JAK ZGŁASZAĆ BŁĘDY:</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/fatal_error_dialog.cpp" line="39"/>
         <source>Please, don&apos;t send incorrect reports. Thanks for understanding.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prosimy o nie wysyłanie nieprawidłowych raportów. Dziękujemy za zrozumienie.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/fatal_error_dialog.cpp" line="49"/>
         <source>RPCS3: Fatal Error</source>
-        <translation type="unfinished"></translation>
+        <translation>RPCS3: Błąd krytyczny</translation>
     </message>
 </context>
 <context>
@@ -4252,7 +4252,7 @@ This change will only be final when you save the config.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_compatibility.cpp" line="228"/>
         <source>Downloading Database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pobieranie bazy danych</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_compatibility.h" line="123"/>
@@ -4297,7 +4297,7 @@ This change will only be final when you save the config.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_compatibility.h" line="127"/>
         <source>Nothing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nic</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_compatibility.h" line="127"/>
@@ -4307,7 +4307,7 @@ This change will only be final when you save the config.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_compatibility.h" line="128"/>
         <source>No results found</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brak wyników</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_compatibility.h" line="128"/>
@@ -4317,7 +4317,7 @@ This change will only be final when you save the config.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_compatibility.h" line="129"/>
         <source>Database missing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brakująca baza danych</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_compatibility.h" line="129"/>
@@ -4333,7 +4333,7 @@ Make sure you are connected to the internet.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_compatibility.h" line="130"/>
         <source>Downloading the compatibility database. Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pobieranie bazy danych kompatybilności. Proszę czekać...</translation>
     </message>
 </context>
 <context>
@@ -4346,22 +4346,22 @@ Make sure you are connected to the internet.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="113"/>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ikona</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="113"/>
         <source>Show Icons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż ikony</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="114"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tytuł</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="114"/>
         <source>Show Names</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż tytuł</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="115"/>
@@ -4371,77 +4371,77 @@ Make sure you are connected to the internet.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="115"/>
         <source>Show Serials</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż serial</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="116"/>
         <source>Firmware</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="116"/>
         <source>Show Firmwares</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż firmware</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="117"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wersja</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="117"/>
         <source>Show Versions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż wersję</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="118"/>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kategoria</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="118"/>
         <source>Show Categories</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż kategorie</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="119"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ścieżka</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="119"/>
         <source>Show Paths</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż ścieżki</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="120"/>
         <source>PlayStation Move</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="120"/>
         <source>Show PlayStation Move</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż PlayStation Move</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="121"/>
         <source>Supported Resolutions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obsługiwane rozdzielczości</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="121"/>
         <source>Show Supported Resolutions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż obsługiwane rozdzielczości</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="122"/>
         <source>Sound Formats</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formaty dźwięku</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="122"/>
         <source>Show Sound Formats</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż formaty dźwięku</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="123"/>
@@ -4451,7 +4451,7 @@ Make sure you are connected to the internet.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="123"/>
         <source>Show Parental Levels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż poziomy rodzicielskie</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="124"/>
@@ -4461,47 +4461,47 @@ Make sure you are connected to the internet.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="124"/>
         <source>Show Last Played</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż ostatnio grane</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="125"/>
         <source>Time Played</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Czas gry</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="125"/>
         <source>Show Time Played</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż czas gry</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="126"/>
         <source>Compatibility</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kompatibilność</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="126"/>
         <source>Show Compatibility</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż kompatybilność</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="127"/>
         <source>Space On Disk</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozmiar</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="127"/>
         <source>Show Space On Disk</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż rozmiar</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="129"/>
         <source>Loading games</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ładowanie gier</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="129"/>
         <source>Loading games, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ładowanie gier, proszę czekać...</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="129"/>
@@ -4512,7 +4512,7 @@ Make sure you are connected to the internet.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2549"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2608"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="212"/>
@@ -4535,7 +4535,7 @@ Falling back to local database.
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1093"/>
         <source>Success!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sukces!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1093"/>
@@ -4555,7 +4555,7 @@ Falling back to local database.
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1144"/>
         <source>&amp;Boot with global configuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Uruchom z konfiguracją globalną</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1146"/>
@@ -4565,7 +4565,7 @@ Falling back to local database.
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1147"/>
         <source>&amp;Boot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Uruchom</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1155"/>
@@ -4575,7 +4575,7 @@ Falling back to local database.
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1156"/>
         <source>&amp;Boot with custom configuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Uruchom z niestandardową konfiguracją</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1173"/>
@@ -4585,7 +4585,7 @@ Falling back to local database.
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1174"/>
         <source>&amp;Boot with default configuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Uruchom z domyślną konfiguracją</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1183"/>
@@ -4595,7 +4595,7 @@ Falling back to local database.
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1184"/>
         <source>&amp;Boot with manually selected configuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Uruchom z ręcznie wybraną konfiguracją</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1188"/>
@@ -4610,12 +4610,12 @@ Falling back to local database.
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1206"/>
         <source>&amp;Boot with savestate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Uruchom z zapisanym stanem gry</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1217"/>
         <source>&amp;Change Custom Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zmień konfigurację niestandardową</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1218"/>
@@ -4630,7 +4630,7 @@ Falling back to local database.
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1222"/>
         <source>&amp;Change Custom Gamepad Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zmień niestandardową konfigurację kontrolera</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1223"/>
@@ -4640,12 +4640,12 @@ Falling back to local database.
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1224"/>
         <source>&amp;Manage Game Patches</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zarządzaj łatkami do gier</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1228"/>
         <source>&amp;Create LLVM Cache</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Utwórz cache LLVM</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1231"/>
@@ -4718,7 +4718,7 @@ Falling back to local database.
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1338"/>
         <source>&amp;Manage Game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zarządzaj grą</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1341"/>
@@ -4940,7 +4940,7 @@ Falling back to local database.
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1633"/>
         <source>&amp;Check Game Compatibility</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Sprawdź kompatybilność gry</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1634"/>
@@ -4961,7 +4961,7 @@ Falling back to local database.
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1718"/>
         <source>%0 - %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1722"/>
@@ -4976,7 +4976,8 @@ Path: %0
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1743"/>
         <source>Size: %0
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozmiar: %0
+</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1734"/>
@@ -4989,7 +4990,8 @@ Path: %0
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1738"/>
         <source>Path: %0
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ścieżka: %0
+</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1749"/>
@@ -5103,7 +5105,7 @@ You can clear the line in order to use the original title.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1930"/>
         <source>%0
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="1949"/>
@@ -5210,7 +5212,7 @@ Progress: %1/%2. Compiling caches for %3...</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2578"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2637"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2382"/>
@@ -5306,12 +5308,15 @@ Progress: %1/%2. Compiling caches for %3...</source>
 
 Notes:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%0 [%1]
+
+Notka:
+%2</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_grid.cpp" line="84"/>
         <source>%0 [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>%0 [%1]</translation>
     </message>
 </context>
 <context>
@@ -5320,7 +5325,7 @@ Notes:
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_table.cpp" line="50"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_table.cpp" line="385"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieznane</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_table.cpp" line="316"/>
@@ -5328,27 +5333,30 @@ Notes:
 
 Notes:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%0 [%1]
+
+Notka:
+%2</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_table.cpp" line="348"/>
         <source>%0 (Update available: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>%0 (Dostępna aktualizacja %1)</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_table.cpp" line="378"/>
         <source>Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Obsługiwane</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_table.cpp" line="378"/>
         <source>Not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieobsługiwane</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_table.cpp" line="383"/>
         <source>Never played</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nigdy nie uruchomiono</translation>
     </message>
 </context>
 <context>
@@ -5356,33 +5364,33 @@ Notes:
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="425"/>
         <source>Recording saved: %0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nagranie zapisane: %0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="497"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="505"/>
         <source>Recording not possible</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nagrywanie nie jest możliwe</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="514"/>
         <source>Recording started</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozpoczęto nagrywanie</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="1028"/>
         <source>Screenshot saved: %0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zapisano zrzut ekranu: %0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="1111"/>
         <source>Exit Game?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyjść z gry?</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="1112"/>
         <source>Do you really want to exit the game?&lt;br&gt;&lt;br&gt;Any unsaved progress will be lost!&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Czy na pewno chcesz wyjść z gry?&lt;br&gt;&lt;br&gt;Wszelkie niezapisane postępy zostaną utracone!&lt;br&gt;</translation>
     </message>
 </context>
 <context>
@@ -5505,7 +5513,8 @@ Keep waiting or terminate RPCS3 unsafely at your own risk?</source>
         <location filename="rpcs3-master/rpcs3/headless_application.cpp" line="146"/>
         <source>Stopping emulator took too long.
 Some thread has probably deadlocked. Aborting.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zatrzymanie emulatora trwało zbyt długo.
+Pewien wątek prawdopodobnie utknął w martwym punkcie. Przerywanie.</translation>
     </message>
 </context>
 <context>
@@ -6133,56 +6142,60 @@ File was too small.</source>
         <source>You have earned a bronze trophy.
 %0</source>
         <comment>Trophy text</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zdobyłeś brązowe trofeum.
+%0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="42"/>
         <source>You have earned a silver trophy.
 %0</source>
         <comment>Trophy text</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zdobyłeś srebrne trofeum.
+%0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="43"/>
         <source>You have earned a gold trophy.
 %0</source>
         <comment>Trophy text</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zdobyłeś złote trofeum.
+%0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="44"/>
         <source>You have earned a platinum trophy.
 %0</source>
         <comment>Trophy text</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zdobyłeś platynowe trofeum.
+%0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="45"/>
         <source>Compiling shaders</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kompilowanie shaderów</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="46"/>
         <source>Compiling PPU Modules</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kompilowanie modułów PPU</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="47"/>
         <source>Yes</source>
         <comment>Message Dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tak</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="48"/>
         <source>No</source>
         <comment>Message Dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="49"/>
         <source>Back</source>
         <comment>Message Dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wstecz</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="50"/>
@@ -6224,7 +6237,7 @@ File was too small.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="56"/>
         <source>Back</source>
         <comment>OSK Dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wstecz</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="57"/>
@@ -6278,13 +6291,13 @@ File was too small.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="65"/>
         <source>Enter</source>
         <comment>Enter Dialog List</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wybierz</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="66"/>
         <source>Back</source>
         <comment>Cancel Dialog List</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wstecz</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="67"/>
@@ -7131,7 +7144,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="196"/>
         <source>Successfully logged on RPCN!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pomyślnie zalogowano się do RPCN!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="197"/>
@@ -7171,17 +7184,17 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="203"/>
         <source>Exit Game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyjdź z gry</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="204"/>
         <source>Resume Game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wznów grę</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="205"/>
         <source>Friends</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Znajomi</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="206"/>
@@ -7273,12 +7286,12 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="221"/>
         <source>Restart Game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uruchom grę ponownie</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="222"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ustawienia</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="223"/>
@@ -7303,12 +7316,12 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="227"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dźwięk</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="228"/>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obraz</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="229"/>
@@ -7318,7 +7331,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="230"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zaawansowane</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="231"/>
@@ -7338,17 +7351,17 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="234"/>
         <source>Take Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zrób zrzut ekranu</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="235"/>
         <source>Save Emulation State</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zapisz stan gry</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="236"/>
         <source>Save Emulation State And Exit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zapisz stan gry i wyjdź</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="237"/>
@@ -7358,7 +7371,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="238"/>
         <source>Start/Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozpoczęcie/zatrzymanie nagrywania</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="239"/>
@@ -7368,12 +7381,12 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="240"/>
         <source>Resuming...!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wznawianie...!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="241"/>
         <source>The PS3 application has likely crashed, you can close it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aplikacja PS3 prawdopodobnie uległa awarii, możesz ją zamknąć.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="242"/>
@@ -7826,7 +7839,7 @@ Subject:</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="1896"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="1921"/>
         <source>Pause</source>
-        <translation type="unfinished">Wsrzymaj</translation>
+        <translation type="unfinished">Wstrzymaj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="499"/>
@@ -9578,7 +9591,7 @@ Tip: SPU floats are commented along forming instructions.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/microphone_creator.cpp" line="19"/>
         <source>None</source>
         <comment>Microphone device</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brak</translation>
     </message>
 </context>
 <context>
@@ -9587,7 +9600,7 @@ Tip: SPU floats are commented along forming instructions.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/midi_creator.cpp" line="19"/>
         <source>None</source>
         <comment>MIDI device</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brak</translation>
     </message>
 </context>
 <context>
@@ -9677,27 +9690,27 @@ Tip: SPU floats are commented along forming instructions.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/msg_dialog_frame.cpp" line="17"/>
         <source>Normal dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zwykłe okno dialogowe</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/msg_dialog_frame.cpp" line="17"/>
         <source>Error dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Okno dialogowe błędu</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/msg_dialog_frame.cpp" line="66"/>
         <source>&amp;Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tak</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/msg_dialog_frame.cpp" line="67"/>
         <source>&amp;No</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nie</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/msg_dialog_frame.cpp" line="101"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -11060,19 +11073,19 @@ Log:
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pkg_install_dialog.cpp" line="61"/>
         <source>DLC</source>
         <comment>Package type info (DLC)</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pkg_install_dialog.cpp" line="65"/>
         <source>Update</source>
         <comment>Package type info (Update)</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktualizacja</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pkg_install_dialog.cpp" line="71"/>
         <source>%0</source>
         <comment>Package type info</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pkg_install_dialog.cpp" line="77"/>
@@ -11084,7 +11097,7 @@ Log:
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pkg_install_dialog.cpp" line="82"/>
         <source>No info</source>
         <comment>Changelog info placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brak informacji</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pkg_install_dialog.cpp" line="86"/>
@@ -11092,18 +11105,20 @@ Log:
 
 %0</source>
         <comment>Changelog info</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lista zmian:
+
+%0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pkg_install_dialog.cpp" line="92"/>
         <source>&lt;b&gt;%0&lt;/b&gt; (%2)</source>
         <comment>Package text</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pkg_install_dialog.cpp" line="111"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Instaluj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pkg_install_dialog.cpp" line="143"/>
@@ -11266,7 +11281,7 @@ No graphics will be rendered.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="128"/>
         <source>RPCN: Account</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RPCN: Konto</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="133"/>
@@ -11292,17 +11307,17 @@ No graphics will be rendered.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="160"/>
         <source>Create Account</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utwórz konto</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="161"/>
         <source>Edit Account</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Edytuj konto</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="162"/>
         <source>Test Account</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sprawdź połączenie</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="168"/>
@@ -11349,7 +11364,7 @@ Note that these restrictions apply:
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="262"/>
         <source>RPCN: Account Creation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RPCN: Tworzenie konta</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="262"/>
@@ -11379,7 +11394,7 @@ Is this correct?</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="282"/>
         <source>This email provider is banned!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ten dostawca poczty e-mail jest zablokowany!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="283"/>
@@ -11389,12 +11404,12 @@ Is this correct?</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="284"/>
         <source>Unknown creation error!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nieznany błąd podczas tworzenia!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="285"/>
         <source>Unknown error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nieznany błąd</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="287"/>
@@ -11441,12 +11456,12 @@ You can skip this step by leaving it empty and entering it later in the Edit Acc
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="336"/>
         <source>RPCN Account Valid!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RPCN: Konto aktywne!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="336"/>
         <source>Your account is valid!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Twoje konto jest aktywne!</translation>
     </message>
 </context>
 <context>
@@ -11799,17 +11814,17 @@ Note that the reset password token is different from the email verification toke
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="465"/>
         <source>RPCN: Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RPCN: Hasło</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="475"/>
         <source>Enter your password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wprowadź swoje hasło:</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="478"/>
         <source>Enter your password a second time:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wprowadź hasło po raz drugi:</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="500"/>
@@ -11819,17 +11834,17 @@ Note that the reset password token is different from the email verification toke
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="500"/>
         <source>The two passwords you entered don&apos;t match!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wprowadzone dwa hasła nie są takie same!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="506"/>
         <source>Missing Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brak hasła</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="506"/>
         <source>You need to enter a password!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Musisz wprowadzić hasło!</translation>
     </message>
 </context>
 <context>
@@ -11837,24 +11852,26 @@ Note that the reset password token is different from the email verification toke
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="588"/>
         <source>RPCN: Username</source>
-        <translation type="unfinished"></translation>
+        <translation>RPCN: Nazwa Użytkownika</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="595"/>
         <source>Token:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="618"/>
         <source>Invalid Token</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowy Token</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="618"/>
         <source>The token appears to be invalid:
 -Token should be 16 characters long
 -Token should only contain 0-9 and A-F</source>
-        <translation type="unfinished"></translation>
+        <translation>Token wydaje się być nieprawidłowy:
+-Token powinien mieć 16 znaków
+-Token powinien zawierać tylko 0-9 i A-F</translation>
     </message>
 </context>
 <context>
@@ -11862,32 +11879,32 @@ Note that the reset password token is different from the email verification toke
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="414"/>
         <source>RPCN: Username</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RPCN: Nazwa użytkownika</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="421"/>
         <source>Username:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nazwa użytkownika:</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="443"/>
         <source>Missing Username!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brak nazwy użytkownika!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="443"/>
         <source>You must enter a username!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Musisz wpisać nazwę użytkownika!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="448"/>
         <source>Invalid Username!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nieprawidłowa nazwa użytkownika!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="448"/>
         <source>Please enter a valid username!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Proszę wpisać prawidłową nazwę użytkownika!</translation>
     </message>
 </context>
 <context>
@@ -11895,211 +11912,213 @@ Note that the reset password token is different from the email verification toke
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="977"/>
         <source>RPCN: Friends - Logged in as %0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RPCN: Znajomi - Zalogowano jako %0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="981"/>
         <source>RPCN: Friends - %0 (Not logged in)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RPCN: Znajomi - %0 (Niezalogowany)</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="985"/>
         <source>RPCN: Friends</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RPCN: Znajomi</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="996"/>
         <source>Friends</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Znajomi</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1001"/>
         <source>Add Friend</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dodaj znajomego</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1006"/>
         <source>Friend Requests</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zaproszenia do Znajomych</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1016"/>
         <source>Blocked Users</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zablokowani użytkownicy</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1023"/>
         <source>Recent Players</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ostatni gracze</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1040"/>
         <source>Failed to connect to RPCN:
 %0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie udało się połączyć z RPCN:
+%0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1041"/>
         <source>Error connecting to RPCN!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Błąd połączenia z RPCN!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1046"/>
         <source>Failed to authentify to RPCN:
 %0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie udało się uwierzytelnić do RPCN:
+%0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1047"/>
         <source>Error authentifying to RPCN!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Błąd uwierzytelniania w RPCN!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1112"/>
         <source>&amp;Remove Friend</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Usuń znajomego</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1118"/>
         <source>Error removing a friend!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Błąd podczas usuwania znajomego!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1118"/>
         <source>An error occurred while trying to remove a friend!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wystąpił błąd podczas próby usunięcia znajomego!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1122"/>
         <source>Friend removed!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Znajomy usunięty!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1122"/>
         <source>You&apos;ve successfully removed a friend!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pomyślnie usunięto znajomego!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1145"/>
         <source>&amp;Cancel Request</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Anuluj prośbę</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1151"/>
         <source>Error cancelling friend request!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Błąd podczas anulowania prośby o dodanie do znajomych!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1151"/>
         <source>An error occurred while trying to cancel friend request!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wystąpił błąd podczas próby anulowania prośby o dodanie do znajomych!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1155"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1189"/>
         <source>Friend request cancelled!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prośba o dodanie do znajomych anulowana!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1155"/>
         <source>You&apos;ve successfully cancelled the friend request!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pomyślnie anulowano prośbę o dodanie do znajomych!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1166"/>
         <source>&amp;Accept Request</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Akceptuj prośbę</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1167"/>
         <source>&amp;Reject Request</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Odrzuć zaproszenie</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1173"/>
         <source>Error adding a friend!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Błąd podczas dodawania znajomego!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1173"/>
         <source>An error occurred while trying to add a friend!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wystąpił błąd podczas próby dodania znajomego!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1177"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1257"/>
         <source>Friend added!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Znajomy dodany!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1177"/>
         <source>You&apos;ve successfully added a friend!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pomyślnie dodano znajomego!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1185"/>
         <source>Error rejecting friend request!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Błąd podczas odrzucania prośby o dodanie do znajomych!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1185"/>
         <source>An error occurred while trying to reject the friend request!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wystąpił błąd podczas próby odrzucenia prośby o dodanie do znajomych!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1189"/>
         <source>You&apos;ve successfully rejected the friend request!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pomyślnie odrzucono prośbę o dodanie do znajomych!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1209"/>
         <source>&amp;Send Friend Request</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Wyślij zaproszenie do znajomych</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1215"/>
         <source>Error sending a friend request!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Błąd podczas wysyłania prośby o dodanie do znajomych!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1215"/>
         <source>An error occurred while trying to send a friend request!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wystąpił błąd podczas próby wysłania zaproszenia do znajomych!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1234"/>
         <source>Add a friend</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dodaj jako znajomego</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1234"/>
         <source>Friend&apos;s username:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nazwa użytkownika znajomego:</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1247"/>
         <source>Error validating username!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Błąd weryfikacji nazwy użytkownika!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1247"/>
         <source>The username you entered is invalid!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podana nazwa użytkownika jest nieprawidłowa!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1252"/>
         <source>Error adding friend!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Błąd podczas dodawania znajomego!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1252"/>
         <source>An error occurred while adding a friend!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wystąpił błąd podczas dodawania znajomego!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/rpcn_settings_dialog.cpp" line="1257"/>
         <source>Friend was successfully added!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Znajomy został pomyślnie dodany!</translation>
     </message>
 </context>
 <context>
@@ -12499,7 +12518,7 @@ Note that the reset password token is different from the email verification toke
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/screenshot_manager_dialog.cpp" line="22"/>
         <source>Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrzuty Ekranu</translation>
     </message>
 </context>
 <context>
@@ -12507,17 +12526,17 @@ Note that the reset password token is different from the email verification toke
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/screenshot_preview.cpp" line="21"/>
         <source>Screenshot Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podgląd zrzutów ekranu</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/screenshot_preview.cpp" line="35"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kopiuj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/screenshot_preview.cpp" line="37"/>
         <source>&amp;Open file location</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Otwórz lokalizację pliku</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/screenshot_preview.cpp" line="40"/>
@@ -12540,27 +12559,27 @@ Note that the reset password token is different from the email verification toke
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/sendmessage_dialog_frame.cpp" line="40"/>
         <source>Choose friend to message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz znajomego do wysłania wiadomości:</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/sendmessage_dialog_frame.cpp" line="51"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/sendmessage_dialog_frame.cpp" line="52"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/sendmessage_dialog_frame.cpp" line="70"/>
         <source>Error sending a message!</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd wysyłania wiadomości!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/sendmessage_dialog_frame.cpp" line="70"/>
         <source>You must select a friend!</source>
-        <translation type="unfinished"></translation>
+        <translation>Musisz wybrać znajomego!</translation>
     </message>
 </context>
 <context>
@@ -14379,17 +14398,17 @@ Preview:
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/shortcut_dialog.ui" line="14"/>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Skróty Klawiszowe</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/shortcut_dialog.ui" line="22"/>
         <source>Main Window Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Skróty klawiszowe okna głównego</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/shortcut_dialog.ui" line="47"/>
         <source>Game Window Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Skróty klawiszowe okna gry</translation>
     </message>
 </context>
 <context>
@@ -15057,7 +15076,7 @@ Please contact a developer.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="429"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="747"/>
         <source>Auto-updater</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Asystent Aktualizacji</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="96"/>
@@ -15066,32 +15085,33 @@ Please contact a developer.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="429"/>
         <source>An error occurred during the auto-updating process.
 Check the log for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wystąpił błąd podczas procesu automatycznej aktualizacji.
+Sprawdź dziennik, aby uzyskać więcej informacji.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="138"/>
         <source>Checking For Updates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sprawdzanie aktualizacji</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="215"/>
         <source>Your version is already up to date!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Twoja wersja już jest aktualna!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="236"/>
         <source>&lt;br&gt;You can empower our project at &lt;a href=&quot;https://rpcs3.net/patreon&quot;&gt;RPCS3 Patreon&lt;/a&gt;.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;br&gt;Możesz wesprzeć nasz projekt na &lt;a href=&quot;https://rpcs3.net/patreon&quot;&gt;Patreonie&lt;/a&gt;!&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="245"/>
         <source>A better version of RPCS3 is available!&lt;br&gt;&lt;br&gt;Current version: %0 (%1)&lt;br&gt;Better version: %2 (%3)&lt;br&gt;%4&lt;br&gt;Do you want to update?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lepsza wersja RPCS3 jest dostępna!&lt;br&gt;&lt;br&gt;Aktualna wersja: %0 (%1)&lt;br&gt;Lepsza wersja: %2 (%3)&lt;br&gt;%4&lt;br&gt;Czy chcesz zaktualizować?</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="254"/>
         <source>A new version of RPCS3 is available!&lt;br&gt;&lt;br&gt;Current version: %0 (%1)&lt;br&gt;Latest version: %2 (%3)&lt;br&gt;Your version is %4 behind.&lt;br&gt;%5&lt;br&gt;Do you want to update?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nowa wersja RPCS3 jest dostępna!&lt;br&gt;&lt;br&gt;Aktualna wersja: %0 (%1)&lt;br&gt;Najnowsza wersja: %2 (%3)&lt;br&gt;Twoja wersja jest %4 w tyle.&lt;br&gt;%5&lt;br&gt;Czy chcesz zaktualizować?</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="267"/>
@@ -15102,49 +15122,51 @@ Check the log for more information.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="304"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="314"/>
         <source>N/A</source>
-        <translation type="unfinished"></translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="370"/>
         <source>• %0: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>• %0: %1</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="373"/>
         <source>Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dostępna Aktualizacja</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="378"/>
         <source>To see the changelog, please click &quot;Show Details&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aby zobaczyć listę zmian, kliknij&quot;Pokaż szczegóły&quot;.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="379"/>
         <source>Changelog:
 
 %0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lista Zmian:
+
+%0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="409"/>
         <source>Please stop the emulation before trying to update.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zatrzymaj emulację przed próbą aktualizacji.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="436"/>
         <source>Downloading Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie Aktualizacji</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="443"/>
         <source>Updating RPCS3</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizowanie RPCS3</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/update_manager.cpp" line="747"/>
         <source>Update successful!&lt;br&gt;RPCS3 will now restart.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktualizacja powiodła się!&lt;br&gt;RPCS3 uruchomi się ponownie.&lt;br&gt;</translation>
     </message>
 </context>
 <context>
@@ -15382,7 +15404,7 @@ Stop the emulator now?</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/vfs_dialog_usb_tab.cpp" line="150"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Edytuj</translation>
     </message>
 </context>
 <context>
@@ -15390,17 +15412,17 @@ Stop the emulator now?</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/vfs_tool_dialog.ui" line="14"/>
         <source>VFS Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Narzędzie VFS</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/vfs_tool_dialog.ui" line="20"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ścieżka</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/vfs_tool_dialog.ui" line="36"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Wynik</translation>
     </message>
 </context>
 <context>
@@ -15418,7 +15440,7 @@ Stop the emulator now?</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/welcome_dialog.ui" line="180"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;RPCS3 does not condone piracy. You must dump your own games.&lt;/span&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;RPCS3 nie toleruje piractwa. Musisz utworzyć własną kopię gry.&lt;/span&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;RPCS3 nie toleruje piractwa. Musisz użyć własnych kopii gier.&lt;/span&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/welcome_dialog.ui" line="190"/>
@@ -15428,7 +15450,7 @@ Stop the emulator now?</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/welcome_dialog.ui" line="197"/>
         <source>Create Start Menu shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utwórz skrót w menu startowym</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/welcome_dialog.ui" line="204"/>
@@ -15443,7 +15465,7 @@ Stop the emulator now?</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/welcome_dialog.ui" line="261"/>
         <source>I have read the Quickstart guide</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zapoznałem się z przewodnikiem Szybkiego startu</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/welcome_dialog.ui" line="281"/>
@@ -15479,17 +15501,24 @@ Stop the emulator now?</source>
 				Otherwise, further discussion and support can be found on the &lt;a %0 href=&quot;https://forums.rpcs3.net&quot;&gt;Forums&lt;/a&gt; or on our &lt;a %0 href=&quot;https://discord.me/RPCS3&quot;&gt;Discord&lt;/a&gt; server.
 			&lt;/p&gt;
 		</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+			&lt;p style=&quot;white-space: nowrap;&quot;&gt;
+				Aby rozpocząć, musisz najpierw zainstalować &lt;span style=&quot;font-weight:600;&quot;&gt;firmware PlayStation 3&lt;/span&gt;.&lt;br&gt;
+				Proszę zapoznaj się z &lt;a %0 href=&quot;https://rpcs3.net/quickstart&quot;&gt;Przewodnikiem szybkiego startu&lt;/a&gt; dostępnym na oficjalnej stronie internetowej po więcej informacji.&lt;br&gt;
+				Jeśli masz dodatkowe pytania, zapoznaj się z sekcją &lt;a %0 href=&quot;https://rpcs3.net/faq&quot;&gt;FAQ&lt;/a&gt;.&lt;br&gt;
+				W przeciwnym razie dalsze dyskusje i wsparcie można znaleźć na &lt;a %0 href=&quot;https://forums.rpcs3.net&quot;&gt;Forum&lt;/a&gt; lub na naszym serwerze &lt;a %0 href=&quot;https://discord.me/RPCS3&quot;&gt;Discord&lt;/a&gt;
+			&lt;/p&gt;
+		</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/welcome_dialog.cpp" line="69"/>
         <source>&amp;Create Start Menu shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Utwórz skrót w menu startowym</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/welcome_dialog.cpp" line="71"/>
         <source>&amp;Create Launchpad shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Utwórz skrót w launchpad</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/welcome_dialog.cpp" line="74"/>
