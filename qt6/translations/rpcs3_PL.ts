@@ -1810,7 +1810,7 @@ Can be reset to current wall clock time by clicking &quot;Set to Now&quot;.</sou
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/about_dialog.ui" line="218"/>
         <source>&lt;p&gt;&lt;b&gt;Developers:&lt;/b&gt;&lt;br&gt;&lt;br&gt;¬DH&lt;br&gt;¬AlexAltea&lt;br&gt;¬Hykem&lt;br&gt;¬Oil&lt;br&gt;Nekotekina&lt;br&gt;¬Bigpet&lt;br&gt;¬gopalsr83&lt;br&gt;¬tambry&lt;br&gt;¬vlj&lt;br&gt;kd-11&lt;br&gt;¬jarveson&lt;br&gt;¬raven02&lt;br&gt;AniLeo&lt;br&gt;¬cornytrace&lt;br&gt;¬ssshadow&lt;br&gt;¬Numan&lt;br&gt;hcorion&lt;br&gt;Megamouse&lt;br&gt;¬flash-fire&lt;br&gt;DAGINATSUKO&lt;br&gt;GalCiv&lt;br&gt;eladash&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;&lt;b&gt;Deweloperzy:&lt;/b&gt;&lt;br&gt;&lt;br&gt;¬DH&lt;br&gt;¬AlexAltea&lt;br&gt;¬Hykem&lt;br&gt;¬Oil&lt;br&gt;Nekotekina&lt;br&gt;¬Bigpet&lt;br&gt;¬gopalsr83&lt;br&gt;¬tambry&lt;br&gt;¬vlj&lt;br&gt;kd-11&lt;br&gt;¬jarveson&lt;br&gt;¬raven02&lt;br&gt;AniLeo&lt;br&gt;¬cornytrace&lt;br&gt;¬ssshadow&lt;br&gt;¬Numan&lt;br&gt;hcorion&lt;br&gt;Megamouse&lt;br&gt;¬flash-fire&lt;br&gt;DAGINATSUKO&lt;br&gt;GalCiv&lt;br&gt;eladash&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Deweloperzy:&lt;/b&gt;&lt;br&gt;&lt;br&gt;¬DH&lt;br&gt;¬AlexAltea&lt;br&gt;¬Hykem&lt;br&gt;¬Oil&lt;br&gt;Nekotekina&lt;br&gt;¬Bigpet&lt;br&gt;¬gopalsr83&lt;br&gt;¬tambry&lt;br&gt;¬vlj&lt;br&gt;kd-11&lt;br&gt;¬jarveson&lt;br&gt;¬raven02&lt;br&gt;AniLeo&lt;br&gt;¬cornytrace&lt;br&gt;¬ssshadow&lt;br&gt;¬Numan&lt;br&gt;hcorion&lt;br&gt;Megamouse&lt;br&gt;¬flash-fire&lt;br&gt;DAGINATSUKO&lt;br&gt;GalCiv&lt;br&gt;eladash&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/about_dialog.ui" line="234"/>
@@ -1863,7 +1863,7 @@ Can be reset to current wall clock time by clicking &quot;Set to Now&quot;.</sou
           &lt;br&gt;Vekkar
           &lt;br&gt;Jackson Abney
           &lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;&lt;b&gt;Wspierający:&lt;/b&gt;&lt;br&gt;&lt;br&gt;Howard Garrison&lt;br&gt;EXPotemkin&lt;br&gt;Marko V.&lt;br&gt;danhp&lt;br&gt;Jake (5315825)&lt;br&gt;Ian Reid&lt;br&gt;Tad Sherlock&lt;br&gt;Tyler Friesen&lt;br&gt;Folzar&lt;br&gt;Payton Williams&lt;br&gt;RedPill Australia&lt;br&gt;yanghong&lt;br&gt;Mohammed El-Serougi&lt;br&gt;Дима ~Ximer13~ Кулин&lt;br&gt;James Reed&lt;br&gt;BaroqueSonata&lt;br&gt;Bonzay0&lt;br&gt;Henrijs Kons&lt;br&gt;eoiz&lt;br&gt;Lena Stöffler&lt;br&gt;Michael Holder&lt;br&gt;Max Bosse&lt;br&gt;Tyler Whisinnand&lt;br&gt;Gato Harvey&lt;br&gt;cain4355&lt;br&gt;Thomas Peltier&lt;br&gt;Loli Co.&lt;br&gt;MapleLoonie&lt;br&gt;Travis McEwen&lt;br&gt;Scott Singratsomboune&lt;br&gt;T.E&lt;br&gt;Lukas Rieger&lt;br&gt;Dane Madsen&lt;br&gt;JMS&lt;br&gt;Jonatan R&lt;br&gt;Luke Johnson&lt;br&gt;Thomas Zaorski&lt;br&gt;MyOwnFan&lt;br&gt;Alexandros Mandravillis&lt;br&gt;Socker Bopper&lt;br&gt;Faris Leonhart&lt;br&gt;Fabien Net&lt;br&gt;Raves&lt;br&gt;Barrowsx&lt;br&gt;kilsuton&lt;br&gt;Max Mason&lt;br&gt;Ethan Condon&lt;br&gt;jfidone&lt;br&gt;iaDRM&lt;br&gt;Kazer2.0&lt;br&gt;Bryce Quintin&lt;br&gt;Yuri Kunde Schlesner&lt;br&gt;Abdulla Altayer&lt;br&gt;Nicolas Jallamion&lt;br&gt;Vorvek&lt;br&gt;Ian Faddis&lt;br&gt;Leon&lt;br&gt;Mohammad Taleb&lt;br&gt;Jokez&lt;br&gt;crashX&lt;br&gt;Raveskirza&lt;br&gt;Grant Deacon&lt;br&gt;michael&lt;br&gt;David Zech&lt;br&gt;Ben Manoochehri&lt;br&gt;Adnan Kovacevic&lt;br&gt;Mighty J&lt;br&gt;Sam Shan Jiang&lt;br&gt;TheAnig&lt;br&gt;Rodney Coleman&lt;br&gt;FiniteAce&lt;br&gt;Kian Soon Alex Chiam&lt;br&gt;yukkuri&lt;br&gt;Justin Chadwick&lt;br&gt;toxic Itzi&lt;br&gt;Templerror&lt;br&gt;Myles Wesley Carlson&lt;br&gt;Max Bosse&lt;br&gt;Ethan Clark&lt;br&gt;LupineDream&lt;br&gt;CheatCodesOfLife&lt;br&gt;Jan Zykmund&lt;br&gt;Francesco Cinquemani&lt;br&gt;Andylg&lt;br&gt;Julia H de Camargos&lt;br&gt;Suvodip Mitra&lt;br&gt;Goh&lt;br&gt;Dmitry&lt;br&gt;Steel Brain&lt;br&gt;VarieZ&lt;br&gt;William Swango&lt;br&gt;Matthew Messersmith&lt;br&gt;Duane Locsin&lt;br&gt;Shuddertrix&lt;br&gt;Loweys Litsman&lt;br&gt;Shuddertrix&lt;br&gt;Mason Ferrie&lt;br&gt;Richard Kaplan&lt;br&gt;Hugues Valois&lt;br&gt;richard(lath..ch@)&lt;br&gt;Johnathan (Virtuous John)&lt;br&gt;eoiz&lt;br&gt;Dany Huguenin&lt;br&gt;doobieashtray&lt;br&gt;dean(mag..94@)&lt;br&gt;Pommier Jean-Philippe&lt;br&gt;Douglas Alan Albino&lt;br&gt;Ryan Mull&lt;br&gt;Thor-Erling Engen&lt;br&gt;Nick Carpenter&lt;br&gt;curryking3&lt;br&gt;Jared Tracton&lt;br&gt;alex(koo..oh@)&lt;br&gt;Jason O&apos;Brien&lt;br&gt;Skeletal Charizard&lt;br&gt;Ace00&lt;br&gt;Brandon Corujo&lt;br&gt;HyperBitHero&lt;br&gt;佳文 李&lt;br&gt;sorryboi
+        <translation>&lt;p&gt;&lt;b&gt;Wspierający:&lt;/b&gt;&lt;br&gt;&lt;br&gt;Howard Garrison&lt;br&gt;EXPotemkin&lt;br&gt;Marko V.&lt;br&gt;danhp&lt;br&gt;Jake (5315825)&lt;br&gt;Ian Reid&lt;br&gt;Tad Sherlock&lt;br&gt;Tyler Friesen&lt;br&gt;Folzar&lt;br&gt;Payton Williams&lt;br&gt;RedPill Australia&lt;br&gt;yanghong&lt;br&gt;Mohammed El-Serougi&lt;br&gt;Дима ~Ximer13~ Кулин&lt;br&gt;James Reed&lt;br&gt;BaroqueSonata&lt;br&gt;Bonzay0&lt;br&gt;Henrijs Kons&lt;br&gt;eoiz&lt;br&gt;Lena Stöffler&lt;br&gt;Michael Holder&lt;br&gt;Max Bosse&lt;br&gt;Tyler Whisinnand&lt;br&gt;Gato Harvey&lt;br&gt;cain4355&lt;br&gt;Thomas Peltier&lt;br&gt;Loli Co.&lt;br&gt;MapleLoonie&lt;br&gt;Travis McEwen&lt;br&gt;Scott Singratsomboune&lt;br&gt;T.E&lt;br&gt;Lukas Rieger&lt;br&gt;Dane Madsen&lt;br&gt;JMS&lt;br&gt;Jonatan R&lt;br&gt;Luke Johnson&lt;br&gt;Thomas Zaorski&lt;br&gt;MyOwnFan&lt;br&gt;Alexandros Mandravillis&lt;br&gt;Socker Bopper&lt;br&gt;Faris Leonhart&lt;br&gt;Fabien Net&lt;br&gt;Raves&lt;br&gt;Barrowsx&lt;br&gt;kilsuton&lt;br&gt;Max Mason&lt;br&gt;Ethan Condon&lt;br&gt;jfidone&lt;br&gt;iaDRM&lt;br&gt;Kazer2.0&lt;br&gt;Bryce Quintin&lt;br&gt;Yuri Kunde Schlesner&lt;br&gt;Abdulla Altayer&lt;br&gt;Nicolas Jallamion&lt;br&gt;Vorvek&lt;br&gt;Ian Faddis&lt;br&gt;Leon&lt;br&gt;Mohammad Taleb&lt;br&gt;Jokez&lt;br&gt;crashX&lt;br&gt;Raveskirza&lt;br&gt;Grant Deacon&lt;br&gt;michael&lt;br&gt;David Zech&lt;br&gt;Ben Manoochehri&lt;br&gt;Adnan Kovacevic&lt;br&gt;Mighty J&lt;br&gt;Sam Shan Jiang&lt;br&gt;TheAnig&lt;br&gt;Rodney Coleman&lt;br&gt;FiniteAce&lt;br&gt;Kian Soon Alex Chiam&lt;br&gt;yukkuri&lt;br&gt;Justin Chadwick&lt;br&gt;toxic Itzi&lt;br&gt;Templerror&lt;br&gt;Myles Wesley Carlson&lt;br&gt;Max Bosse&lt;br&gt;Ethan Clark&lt;br&gt;LupineDream&lt;br&gt;CheatCodesOfLife&lt;br&gt;Jan Zykmund&lt;br&gt;Francesco Cinquemani&lt;br&gt;Andylg&lt;br&gt;Julia H de Camargos&lt;br&gt;Suvodip Mitra&lt;br&gt;Goh&lt;br&gt;Dmitry&lt;br&gt;Steel Brain&lt;br&gt;VarieZ&lt;br&gt;William Swango&lt;br&gt;Matthew Messersmith&lt;br&gt;Duane Locsin&lt;br&gt;Shuddertrix&lt;br&gt;Loweys Litsman&lt;br&gt;Shuddertrix&lt;br&gt;Mason Ferrie&lt;br&gt;Richard Kaplan&lt;br&gt;Hugues Valois&lt;br&gt;richard(lath..ch@)&lt;br&gt;Johnathan (Virtuous John)&lt;br&gt;eoiz&lt;br&gt;Dany Huguenin&lt;br&gt;doobieashtray&lt;br&gt;dean(mag..94@)&lt;br&gt;Pommier Jean-Philippe&lt;br&gt;Douglas Alan Albino&lt;br&gt;Ryan Mull&lt;br&gt;Thor-Erling Engen&lt;br&gt;Nick Carpenter&lt;br&gt;curryking3&lt;br&gt;Jared Tracton&lt;br&gt;alex(koo..oh@)&lt;br&gt;Jason O&apos;Brien&lt;br&gt;Skeletal Charizard&lt;br&gt;Ace00&lt;br&gt;Brandon Corujo&lt;br&gt;HyperBitHero&lt;br&gt;佳文 李&lt;br&gt;sorryboi
           &lt;br&gt;Johnson Bui
           &lt;br&gt;itachi1986
           &lt;br&gt;Mortano
@@ -1999,12 +1999,12 @@ Restart of the game is required to apply. You can enable/disable this in the set
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/auto_pause_settings_dialog.cpp" line="31"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zapisz</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/auto_pause_settings_dialog.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/auto_pause_settings_dialog.cpp" line="49"/>
@@ -2130,50 +2130,51 @@ Restart of the game is required to apply. You can enable/disable this in the set
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/camera_settings_dialog.ui" line="14"/>
         <source>Camera Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ustawienia Kamery</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/camera_settings_dialog.ui" line="22"/>
         <source>Camera</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kamera</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/camera_settings_dialog.ui" line="28"/>
         <source>No cameras found</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie znaleziono kamery</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/camera_settings_dialog.ui" line="38"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/camera_settings_dialog.ui" line="44"/>
         <source>No settings found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie znaleziono ustawień</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/camera_settings_dialog.ui" line="56"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Podgląd</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/camera_settings_dialog.cpp" line="133"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/camera_settings_dialog.cpp" line="229"/>
         <source>Camera not available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kamera jest niedostępna</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/camera_settings_dialog.cpp" line="133"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/camera_settings_dialog.cpp" line="229"/>
         <source>The selected camera is not available.
 It might be blocked by another application.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wybrana kamera jest niedostępna.
+Może być zablokowana przez inną aplikację.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/camera_settings_dialog.cpp" line="159"/>
         <source>%0x%1, %2-%3 FPS, Format=%4</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/camera_settings_dialog.cpp" line="246"/>
@@ -2183,7 +2184,7 @@ It might be blocked by another application.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/camera_settings_dialog.cpp" line="246"/>
         <source>RPCS3 has no permissions to access cameras on this device.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RPCS3 nie ma uprawnień dostępu do kamer na tym urządzeniu.</translation>
     </message>
 </context>
 <context>
@@ -2432,7 +2433,7 @@ Double-click: Set breakpoints.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/debugger_frame.cpp" line="1237"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/debugger_frame.cpp" line="1428"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/debugger_frame.cpp" line="1239"/>
@@ -4154,7 +4155,7 @@ This change will only be final when you save the config.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/infinity_dialog.cpp" line="480"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/infinity_dialog.cpp" line="507"/>
@@ -4512,7 +4513,7 @@ Make sure you are connected to the internet.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2549"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2608"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="212"/>
@@ -5479,32 +5480,32 @@ Keep waiting or terminate RPCS3 unsafely at your own risk?</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_settings.cpp" line="162"/>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie pokazuj ponownie</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_settings.cpp" line="204"/>
         <source>Close Running Game?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamknąć aktualnie działającą grę?</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_settings.cpp" line="205"/>
         <source>Performing this action will close the current game.&lt;br&gt;Do you really want to continue?&lt;br&gt;&lt;br&gt;Any unsaved progress will be lost!&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wykonanie tej czynności spowoduje zamknięcie bieżącej gry.&lt;br&gt;Czy na pewno chcesz kontynuować?&lt;br&gt;&lt;br&gt;Wszelkie niezapisane postępy zostaną utracone!&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_settings.cpp" line="209"/>
         <source>Booting another game will close the current game.&lt;br&gt;Do you really want to boot another game?&lt;br&gt;&lt;br&gt;Any unsaved progress will be lost!&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uruchomienie innej gry spowoduje zamknięcie bieżącej gry.&lt;br&gt;Czy na pewno chcesz uruchomić inną grę?&lt;br&gt;&lt;br&gt;Wszelkie niezapisane postępy zostaną utracone!&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_settings.cpp" line="213"/>
         <source>Exit RPCS3?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyjść z RPCS3?</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_settings.cpp" line="214"/>
         <source>A game is currently running. Do you really want to close RPCS3?&lt;br&gt;&lt;br&gt;Any unsaved progress will be lost!&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gra jest obecnie uruchomiona. Czy na pewno chcesz zamknąć RPCS3?&lt;br&gt;&lt;br&gt;Wszelkie niezapisane postępy zostaną utracone!&lt;br&gt;</translation>
     </message>
 </context>
 <context>
@@ -5649,7 +5650,7 @@ File was too small.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/instruction_editor_dialog.cpp" line="41"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/instruction_editor_dialog.cpp" line="55"/>
@@ -7697,7 +7698,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="26"/>
         <source>RPCS3</source>
-        <translation type="unfinished">RPCS3</translation>
+        <translation>RPCS3</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="76"/>
@@ -7712,7 +7713,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="159"/>
         <source>Boot (S)Elf</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uruchom (S)Elf</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="172"/>
@@ -7722,7 +7723,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="183"/>
         <source>All Titles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wszystkie tytuły</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="200"/>
@@ -7797,12 +7798,12 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="453"/>
         <source>Boot SELF/ELF</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uruchom SELF/ELF</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="458"/>
         <source>Boot Test</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uruchom Test</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="463"/>
@@ -7812,7 +7813,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="468"/>
         <source>Boot Savestate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wczytaj Stan Gry</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="473"/>
@@ -8076,12 +8077,12 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="720"/>
         <source>Show Debugger</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż Debugger</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="728"/>
         <source>Show Log/TTY</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż Log/TTY</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="733"/>
@@ -8106,7 +8107,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="754"/>
         <source>Show Game List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż Listę Gier</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="762"/>
@@ -8190,7 +8191,7 @@ Subject:</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3379"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3402"/>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zresetuj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="888"/>
@@ -8208,13 +8209,13 @@ Subject:</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="910"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3158"/>
         <source>PS1 Games</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gry PS1</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="921"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3159"/>
         <source>PS2 Games</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gry PS2</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="932"/>
@@ -8244,7 +8245,7 @@ Subject:</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="976"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3164"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieznane</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="985"/>
@@ -8269,7 +8270,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1036"/>
         <source>Toggle fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Przełącz pełny ekran</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1045"/>
@@ -8299,7 +8300,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1072"/>
         <source>Refresh gamelist</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odśwież listę gier</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1081"/>
@@ -8315,12 +8316,12 @@ Subject:</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1095"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3165"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inne</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1103"/>
         <source>Show Hidden Entries</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż Ukryte Wpisy</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1108"/>
@@ -8340,52 +8341,52 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1126"/>
         <source>Create LLVM Caches</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utwórz pamięć podręczną LLVM</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1131"/>
         <source>Remove Custom Configurations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usuń niestandardowe konfiguracje</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1136"/>
         <source>Remove Custom Pad Configurations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usuń niestandardowe konfiguracje kontrolerów</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1141"/>
         <source>Remove Shader Caches</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usuń pamięć podręczną shaderów</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1146"/>
         <source>Remove PPU Caches</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usuń pamięć podręczną PPU</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1151"/>
         <source>Remove SPU Caches</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usuń pamięć podręczną SPU</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1156"/>
         <source>Remove HDD1 Caches</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usuń pamięć podręczną HDD1</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1161"/>
         <source>Remove All Caches</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usuń wszystkie pamięci podręczne</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1166"/>
         <source>Remove Savestates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usuń stany gry</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1171"/>
         <source>Clean up Game List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyczyść listę gier</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1176"/>
@@ -8420,12 +8421,12 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1209"/>
         <source>Remove Firmware Cache</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usuń pamięć podręczną firmware</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1214"/>
         <source>Create Firmware Cache</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utwórz pamięć podręczną firmware</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1222"/>
@@ -8450,22 +8451,22 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1248"/>
         <source>RPCN</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1251"/>
         <source>Configure RPCN</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Konfiguracja RPCN</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1256"/>
         <source>IPC</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1259"/>
         <source>Configure IPC</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguracja IPC</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1264"/>
@@ -8475,7 +8476,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1275"/>
         <source>Show Custom Icons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż Niestandardowe Ikony</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1286"/>
@@ -8515,7 +8516,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1327"/>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skróty</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1335"/>
@@ -8525,22 +8526,22 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1340"/>
         <source>Buzz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1345"/>
         <source>GHLtar</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1350"/>
         <source>Turntable</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1355"/>
         <source>USIO</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1360"/>
@@ -8550,17 +8551,17 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1365"/>
         <source>GunCon 3</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1370"/>
         <source>Top Shot Elite</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1375"/>
         <source>Top Shot Fearmaster</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1380"/>
@@ -8604,7 +8605,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="244"/>
         <source>Update Available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostępna aktualizacja!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="246"/>
@@ -8614,13 +8615,14 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="343"/>
         <source>Missing Firmware Detected!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brak Zainstalowanego Firmware!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="344"/>
         <source>Commercial games require the firmware (PS3UPDAT.PUP file) to be installed.
 &lt;br&gt;For information about how to obtain the required firmware read the &lt;a %0 href=&quot;https://rpcs3.net/quickstart&quot;&gt;quickstart guide&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gry komercyjne wymagają zainstalowania firmware (plik PS3UPDAT.PUP).
+&lt;br&gt;Aby uzyskać informacje o tym, jak uzyskać wymagany firmware, przeczytaj &lt;a %0 href=&quot;https://rpcs3.net/quickstart&quot;&gt;Przewodnik&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="350"/>
@@ -8630,7 +8632,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="480"/>
         <source>No bootable content was found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie znaleziono programu do uruchomienia.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="483"/>
@@ -8660,7 +8662,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="498"/>
         <source>The emulator could not create files required for booting.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Emulator nie mógł utworzyć plików wymaganych do uruchomienia.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="501"/>
@@ -8685,7 +8687,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="517"/>
         <source>Unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nieznany błąd.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="520"/>
@@ -8695,7 +8697,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="523"/>
         <source>Boot Failed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uruchamianie nie powiodło się</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="527"/>
@@ -8771,35 +8773,37 @@ Path:
         <source>
 DLC</source>
         <comment>Block for package type (DLC)</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="846"/>
         <source>
 Update</source>
         <comment>Block for package type (Update)</comment>
-        <translation type="unfinished"></translation>
+        <translation>
+Aktualizacja</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="851"/>
         <source>
 %0</source>
         <comment>Block for package type</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="856"/>
         <source>
 %0</source>
         <comment>Block for Title ID</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="861"/>
         <source>
 Version %0</source>
         <comment>Block for Version</comment>
-        <translation type="unfinished"></translation>
+        <translation>
+Wersja %0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="866"/>
@@ -8823,12 +8827,12 @@ Version %0</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="877"/>
         <source>To see the changelog, please click &quot;Show Details&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aby zobaczyć listę zmian, kliknij &quot;Pokaż szczegóły&quot;.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="878"/>
         <source>%0</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="1014"/>
@@ -8845,7 +8849,7 @@ Version %0</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="1347"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="1572"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="1040"/>
@@ -8866,7 +8870,7 @@ Version %0</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="1667"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3818"/>
         <source>Success!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sukces!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="1178"/>
@@ -8900,7 +8904,7 @@ Tried to install: %2</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="1239"/>
         <source>version %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">wersja %1</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="1239"/>
@@ -9097,7 +9101,9 @@ Please wait...</source>
         <source>The firmware contents could not be extracted.
 This is very likely caused by external interference from a faulty anti-virus software.
 Please add RPCS3 to your anti-virus&apos; whitelist or use better anti-virus software.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można wyodrębnić zawartości firmware.
+Jest to najprawdopodobniej spowodowane zewnętrzną ingerencją wadliwego oprogramowania antywirusowego.
+Dodaj RPCS3 do white listy programu antywirusowego lub użyj lepszego oprogramowania antywirusowego.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="1667"/>
@@ -9209,7 +9215,7 @@ And is logged with some sceNpDrm* functions when the game/application which owns
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="2359"/>
         <source>Precompile caches</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prekompilacja pamięci podręcznej</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="2360"/>
@@ -9293,7 +9299,8 @@ Check anyway?</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3010"/>
         <source>The file could not be opened:
 %0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można otworzyć pliku:
+%0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3171"/>
@@ -9303,7 +9310,7 @@ Check anyway?</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3171"/>
         <source>The auto-updater isn&apos;t available for your OS currently.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatyczna aktualizacja nie jest obecnie dostępna dla Twojego systemu operacyjnego.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3550"/>
@@ -9338,7 +9345,7 @@ Check anyway?</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3560"/>
         <source>Remove all caches?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usunąć wszystkie pamięci podręczne?</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3582"/>
@@ -9379,7 +9386,8 @@ Check anyway?</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3609"/>
         <source>Remove invalid game paths from game list?
 Undetectable games (zombies) as well as corrupted games will be removed from the game list file (games.yml)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usunąć nieprawidłowe ścieżki gier z listy gier?
+Niewykrywalne gry (zombie) oraz gry uszkodzone zostaną usunięte z pliku listy gier (games.yml)</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3639"/>
@@ -9394,12 +9402,12 @@ Undetectable games (zombies) as well as corrupted games will be removed from the
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3649"/>
         <source>Remove firmware cache?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usunąć pamięć podręczną firmware?</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3814"/>
         <source>Nothing to add!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie ma nic do dodania!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3814"/>
@@ -9409,7 +9417,7 @@ Undetectable games (zombies) as well as corrupted games will be removed from the
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3818"/>
         <source>Successfully added software to game list from path(s)!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pomyślnie dodano oprogramowanie do listy gier ze ścieżek!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3990"/>
@@ -9628,7 +9636,7 @@ Tip: SPU floats are commented along forming instructions.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/dimensions_dialog.cpp" line="432"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/dimensions_dialog.cpp" line="455"/>
@@ -9831,7 +9839,7 @@ Tip: SPU floats are commented along forming instructions.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_motion_settings_dialog.ui" line="254"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_motion_settings_dialog.cpp" line="47"/>
@@ -11091,7 +11099,7 @@ Log:
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pkg_install_dialog.cpp" line="77"/>
         <source>v.%0</source>
         <comment>Version info</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pkg_install_dialog.cpp" line="82"/>
@@ -11118,7 +11126,7 @@ Log:
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pkg_install_dialog.cpp" line="111"/>
         <source>Install</source>
-        <translation>Instaluj</translation>
+        <translation type="unfinished">Zainstaluj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pkg_install_dialog.cpp" line="143"/>
@@ -11134,7 +11142,8 @@ Log:
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pkg_install_dialog.cpp" line="156"/>
         <source>You are about to install multiple packages.
 Reorder and/or exclude them if needed, then click &quot;Install&quot; to proceed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamierzasz zainstalować wiele plików PKG.
+W razie potrzeby zmień ich kolejność i/lub wyklucz je, a następnie kliknij &quot;Zainstaluj&quot;, aby kontynuować.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pkg_install_dialog.cpp" line="165"/>
@@ -11191,32 +11200,32 @@ Reorder and/or exclude them if needed, then click &quot;Install&quot; to proceed
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/recvmessage_dialog_frame.cpp" line="42"/>
         <source>Choose message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz wiadomość:</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/recvmessage_dialog_frame.cpp" line="53"/>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Akceptuj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/recvmessage_dialog_frame.cpp" line="54"/>
         <source>Deny</source>
-        <translation type="unfinished"></translation>
+        <translation>Odrzuć</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/recvmessage_dialog_frame.cpp" line="55"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/recvmessage_dialog_frame.cpp" line="72"/>
         <source>Error receiving a message!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Błąd podczas odbierania wiadomości!</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/recvmessage_dialog_frame.cpp" line="72"/>
         <source>You must select a message!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Musisz wybrać wiadomość!</translation>
     </message>
 </context>
 <context>
@@ -12368,7 +12377,7 @@ Note that the reset password token is different from the email verification toke
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/save_data_list_dialog.cpp" line="79"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Anuluj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/save_data_list_dialog.cpp" line="127"/>
@@ -12457,7 +12466,7 @@ Note that the reset password token is different from the email verification toke
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/save_manager_dialog.cpp" line="241"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/save_manager_dialog.cpp" line="511"/>
@@ -14532,7 +14541,7 @@ Preview:
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/skylander_dialog.cpp" line="584"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/skylander_dialog.cpp" line="611"/>
@@ -14803,7 +14812,7 @@ Please contact a developer.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="146"/>
         <source>ID</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="146"/>
@@ -15430,7 +15439,7 @@ Stop the emulator now?</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/welcome_dialog.ui" line="20"/>
         <source>Welcome to RPCS3</source>
-        <translation type="unfinished">Witamy w RPCS3</translation>
+        <translation>Witamy w RPCS3</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/welcome_dialog.ui" line="98"/>
@@ -15455,7 +15464,7 @@ Stop the emulator now?</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/welcome_dialog.ui" line="204"/>
         <source>Use Dark Theme (Can Be Configured Later)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Użyj ciemnego motywu (można go skonfigurować później)</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/welcome_dialog.ui" line="238"/>
@@ -15523,7 +15532,7 @@ Stop the emulator now?</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/welcome_dialog.cpp" line="74"/>
         <source>&amp;Create Application Menu shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Utwórz skrót menu aplikacji</translation>
     </message>
 </context>
 </TS>
