@@ -5937,66 +5937,67 @@ File was too small.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.cpp" line="13"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.cpp" line="14"/>
         <source>Start</source>
-        <translation type="unfinished">Uruchom</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.cpp" line="15"/>
         <source>PS</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.cpp" line="16"/>
         <source>Triangle</source>
-        <translation type="unfinished">Trójkąt</translation>
+        <translation>Trójkąt</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.cpp" line="17"/>
         <source>Circle</source>
+        <translation>Kółko</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.cpp" line="18"/>
         <source>Square</source>
-        <translation type="unfinished">Kwadrat</translation>
+        <translation>Kwadrat</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.cpp" line="19"/>
         <source>Cross</source>
-        <translation type="unfinished">Krzyżyk</translation>
+        <translation>Krzyżyk</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.cpp" line="20"/>
         <source>L1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.cpp" line="21"/>
         <source>R1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.cpp" line="22"/>
         <source>L2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.cpp" line="23"/>
         <source>R2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.cpp" line="24"/>
         <source>L3</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.cpp" line="25"/>
         <source>R3</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.cpp" line="26"/>
@@ -6202,7 +6203,7 @@ File was too small.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="50"/>
         <source>OK</source>
         <comment>Message Dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="51"/>
@@ -6232,7 +6233,7 @@ File was too small.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="55"/>
         <source>Enter</source>
         <comment>OSK Dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wybierz</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="56"/>
@@ -6244,7 +6245,7 @@ File was too small.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="57"/>
         <source>Space</source>
         <comment>OSK Dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spacja</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="58"/>
@@ -6304,7 +6305,7 @@ File was too small.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="67"/>
         <source>Deny</source>
         <comment>Deny Dialog List</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odrzuć</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="68"/>
@@ -7051,7 +7052,7 @@ If you have not installed [%0], go to [Remote Play] on the PS Vita system and st
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="179"/>
         <source>Add Friend</source>
         <comment>SENDMESSAGE_DIALOG</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dodaj znajomego</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="180"/>
@@ -7185,59 +7186,61 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="203"/>
         <source>Exit Game</source>
-        <translation type="unfinished">Wyjdź z gry</translation>
+        <translation>Wyjdź z gry</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="204"/>
         <source>Resume Game</source>
-        <translation type="unfinished">Wznów grę</translation>
+        <translation>Wznów grę</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="205"/>
         <source>Friends</source>
-        <translation type="unfinished">Znajomi</translation>
+        <translation>Znajomi</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="206"/>
         <source>Pending Friend Requests</source>
-        <translation type="unfinished"></translation>
+        <translation>Oczekujące zaproszenia do znajomych</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="207"/>
         <source>Blocked Users</source>
-        <translation type="unfinished"></translation>
+        <translation>Zablokowani użytkownicy</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="208"/>
         <source>Online</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="209"/>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="210"/>
         <source>Blocked</source>
-        <translation type="unfinished"></translation>
+        <translation>Zablokowany</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="211"/>
         <source>You sent a friend request</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wysłałeś zaproszenie do znajomych</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="212"/>
         <source>Sent you a friend request</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wysłał zaproszenie dodanie do znajomych</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="213"/>
         <source>Block this user?
 
 %0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zablokować tego użytkownika?
+
+%0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="214"/>
@@ -7282,7 +7285,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="220"/>
         <source>Next list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Następna Lista</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="221"/>
@@ -7297,7 +7300,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="223"/>
         <source>Save custom configuration?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zapisać niestandardową konfigurację?</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="224"/>
@@ -7307,12 +7310,12 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="225"/>
         <source>Discard the current settings&apos; changes?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odrzucić bieżące zmiany ustawień?</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="226"/>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odrzuć</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="227"/>
@@ -7323,18 +7326,22 @@ Subject:</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="228"/>
         <source>Master Volume</source>
         <comment>Audio</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Głośność Główna</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="229"/>
         <source>Audio Backend</source>
+        <comment>Audio</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="230"/>
         <source>Enable Buffering</source>
         <comment>Audio</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Włącz Buforowanie</translation>
     </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="231"/>
         <source>Desired Audio Buffer Duration</source>
         <comment>Audio</comment>
         <translation type="unfinished"></translation>
@@ -7342,6 +7349,8 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="232"/>
         <source>Enable Time Stretching</source>
+        <comment>Audio</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="233"/>
@@ -7349,18 +7358,22 @@ Subject:</source>
         <comment>Audio</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="234"/>
         <source>Video</source>
         <translation type="unfinished">Obraz</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="235"/>
         <source>Frame Limit</source>
+        <comment>Video</comment>
+        <translation type="unfinished">Limit Klatek</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="236"/>
         <source>Anisotropic Filter Override</source>
         <comment>Video</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtr Anizotropowy</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="237"/>
@@ -7477,7 +7490,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="256"/>
         <source>Overlays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Powiadomienia</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="257"/>
@@ -7530,7 +7543,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="265"/>
         <source>Performance Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nakładka Wydajności</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="266"/>
@@ -7620,7 +7633,7 @@ Subject:</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="280"/>
         <source>Font Size</source>
         <comment>Performance Overlay</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozmiar Czcionki</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="281"/>
@@ -7637,7 +7650,7 @@ Subject:</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="283"/>
         <source>Debug Overlay</source>
         <comment>Debug</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nakładka Debug</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="284"/>
@@ -7685,7 +7698,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="292"/>
         <source>Press and hold the START button to resume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Naciśnij i przytrzymaj przycisk START, aby wznowić</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="293"/>
@@ -8330,7 +8343,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="657"/>
         <source>User Accounts</source>
-        <translation type="unfinished">Konta Użytkowników</translation>
+        <translation>Użytkownicy</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="660"/>
@@ -10158,6 +10171,7 @@ Tip: SPU floats are commented along forming instructions.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_motion_settings_dialog.h" line="66"/>
         <source> (disconnected)</source>
+        <translation type="unfinished"> (odłączony)</translation>
     </message>
 </context>
 <context>
@@ -10905,6 +10919,7 @@ Tip: SPU floats are commented along forming instructions.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_creator_dialog.ui" line="14"/>
         <source>Patch Creator</source>
+        <translation type="unfinished">Kreator łatek</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_creator_dialog.ui" line="37"/>
@@ -11067,6 +11082,7 @@ The export of invalid patches is not allowed.</source>
     <name>patch_manager_dialog</name>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.ui" line="17"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1003"/>
         <source>Patch Manager</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11134,6 +11150,7 @@ The export of invalid patches is not allowed.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.ui" line="294"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.ui" line="301"/>
         <source>N/A</source>
+        <translation type="unfinished">N/A</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="227"/>
@@ -11153,6 +11170,7 @@ Make sure that all the patches located in &quot;%0&quot; contain the proper form
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="874"/>
         <source>Remove Patch</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12610,12 +12628,12 @@ Note that the reset password token is different from the email verification toke
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/save_data_info_dialog.cpp" line="24"/>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zamknij</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/save_data_info_dialog.cpp" line="62"/>
         <source>User ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID Użytkownika</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/save_data_info_dialog.cpp" line="65"/>
@@ -12741,7 +12759,7 @@ Note that the reset password token is different from the email verification toke
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/save_manager_dialog.cpp" line="103"/>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zamknij</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/save_manager_dialog.cpp" line="109"/>
@@ -15489,44 +15507,44 @@ Sprawdź dziennik, aby uzyskać więcej informacji.</translation>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="38"/>
         <source>User Manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Menedżer użytkowników</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="56"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="409"/>
         <source>User ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ID Użytkownika</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="56"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="410"/>
         <source>User Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nazwa Użytkownika</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="62"/>
         <source>&amp;Delete User</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Usuń użytkownika</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="65"/>
         <source>&amp;Create User</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Stwórz użytkownika</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="68"/>
         <source>&amp;Log In User</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zaloguj użytkownika</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="71"/>
         <source>&amp;Rename User</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zmień nazwę</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="74"/>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zamknij</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="226"/>
@@ -15547,7 +15565,7 @@ This will remove all files in:
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="274"/>
         <source>Rename User</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zmień nazwę</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="275"/>
@@ -15573,7 +15591,7 @@ New Username: </source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="324"/>
         <source>Cannot add more users.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można dodać więcej użytkowników.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="332"/>
@@ -15602,7 +15620,7 @@ Stop the emulator now?</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="408"/>
         <source>&amp;Sort By</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Sortuj według</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="412"/>
@@ -15612,12 +15630,12 @@ Stop the emulator now?</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="413"/>
         <source>&amp;Rename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zmień Nazwę</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="414"/>
         <source>&amp;Login</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zaloguj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/user_manager_dialog.cpp" line="415"/>
@@ -15877,6 +15895,14 @@ Stop the emulator now?</source>
     <message>
         <source>Restore Defaults</source>
         <translation>Przywróć domyślne</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Anuluj</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
     </message>
 </context>
 </TS>
