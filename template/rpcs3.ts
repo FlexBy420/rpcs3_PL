@@ -7247,101 +7247,419 @@ Subject:</source>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="228"/>
-        <source>Video</source>
+        <source>Master Volume</source>
+        <comment>Audio</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="229"/>
-        <source>Input</source>
+        <source>Audio Backend</source>
+        <comment>Audio</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="230"/>
-        <source>Advanced</source>
+        <source>Enable Buffering</source>
+        <comment>Audio</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="231"/>
-        <source>Overlays</source>
+        <source>Desired Audio Buffer Duration</source>
+        <comment>Audio</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="232"/>
-        <source>Performance Overlay</source>
+        <source>Enable Time Stretching</source>
+        <comment>Audio</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="233"/>
-        <source>Debug</source>
+        <source>Time Stretching Threshold</source>
+        <comment>Audio</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="234"/>
-        <source>Take Screenshot</source>
+        <source>Video</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="235"/>
-        <source>Save Emulation State</source>
+        <source>Frame Limit</source>
+        <comment>Video</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="236"/>
-        <source>Save Emulation State And Exit</source>
+        <source>Anisotropic Filter Override</source>
+        <comment>Video</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="237"/>
-        <source>Reload Last Emulation State</source>
+        <source>Output Scaling</source>
+        <comment>Video</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="238"/>
-        <source>Start/Stop Recording</source>
+        <source>FidelityFX CAS Sharpening Intensity</source>
+        <comment>Video</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="239"/>
-        <source>Press and hold the START button to resume</source>
+        <source>Stretch To Display Area</source>
+        <comment>Video</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="240"/>
-        <source>Resuming...!</source>
+        <source>Input</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="241"/>
-        <source>The PS3 application has likely crashed, you can close it.</source>
+        <source>Background Input Enabled</source>
+        <comment>Input</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="242"/>
-        <source>SaveState failed: Game saving is in progress, wait until finished.</source>
+        <source>Keep Pads Connected</source>
+        <comment>Input</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="243"/>
-        <source>SaveState failed: VDEC-base video/cutscenes are in order, wait for them to end or enable libvdec.sprx.</source>
+        <source>Show PS Move Cursor</source>
+        <comment>Input</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="244"/>
-        <source>SaveState failed: Failed to lock SPU state, enabling SPU-Compatible mode may fix it.</source>
+        <source>Camera Flip</source>
+        <comment>Input</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="245"/>
-        <source>SaveState failed: Failed to lock SPU state, using SPU ASMJIT will fix it.</source>
+        <source>Pad Handler Mode</source>
+        <comment>Input</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="246"/>
-        <source>Invalid</source>
+        <source>Pad Handler Sleep</source>
+        <comment>Input</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="247"/>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="248"/>
+        <source>Preferred SPU Threads</source>
+        <comment>Advanced</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="249"/>
+        <source>Max Power Saving CPU-Preemptions</source>
+        <comment>Advanced</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="250"/>
+        <source>Accurate RSX reservation access</source>
+        <comment>Advanced</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="251"/>
+        <source>Sleep Timers Accuracy</source>
+        <comment>Advanced</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="252"/>
+        <source>Max SPURS Threads</source>
+        <comment>Advanced</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="253"/>
+        <source>Driver Wake-Up Delay</source>
+        <comment>Advanced</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="254"/>
+        <source>VBlank Frequency</source>
+        <comment>Advanced</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="255"/>
+        <source>VBlank NTSC Fixup</source>
+        <comment>Advanced</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="256"/>
+        <source>Overlays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="257"/>
+        <source>Show Trophy Popups</source>
+        <comment>Overlays</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="258"/>
+        <source>Show RPCN Popups</source>
+        <comment>Overlays</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="259"/>
+        <source>Show Shader Compilation Hint</source>
+        <comment>Overlays</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="260"/>
+        <source>Show PPU Compilation Hint</source>
+        <comment>Overlays</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="261"/>
+        <source>Show Autosave/Autoload Hint</source>
+        <comment>Overlays</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="262"/>
+        <source>Show Pressure Intensity Toggle Hint</source>
+        <comment>Overlays</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="263"/>
+        <source>Show Analog Limiter Toggle Hint</source>
+        <comment>Overlays</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="264"/>
+        <source>Show Mouse And Keyboard Toggle Hint</source>
+        <comment>Overlays</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="265"/>
+        <source>Performance Overlay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="266"/>
+        <source>Enable Performance Overlay</source>
+        <comment>Performance Overlay</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="267"/>
+        <source>Enable Framerate Graph</source>
+        <comment>Performance Overlay</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="268"/>
+        <source>Enable Frametime Graph</source>
+        <comment>Performance Overlay</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="269"/>
+        <source>Detail level</source>
+        <comment>Performance Overlay</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="270"/>
+        <source>Framerate Graph Detail Level</source>
+        <comment>Performance Overlay</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="271"/>
+        <source>Frametime Graph Detail Level</source>
+        <comment>Performance Overlay</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="272"/>
+        <source>Framerate Datapoints</source>
+        <comment>Performance Overlay</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="273"/>
+        <source>Frametime Datapoints</source>
+        <comment>Performance Overlay</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="274"/>
+        <source>Metrics Update Interval</source>
+        <comment>Performance Overlay</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="275"/>
+        <source>Position</source>
+        <comment>Performance Overlay</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="276"/>
+        <source>Center Horizontally</source>
+        <comment>Performance Overlay</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="277"/>
+        <source>Center Vertically</source>
+        <comment>Performance Overlay</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="278"/>
+        <source>Horizontal Margin</source>
+        <comment>Performance Overlay</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="279"/>
+        <source>Vertical Margin</source>
+        <comment>Performance Overlay</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="280"/>
+        <source>Font Size</source>
+        <comment>Performance Overlay</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="281"/>
+        <source>Opacity</source>
+        <comment>Performance Overlay</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="282"/>
+        <source>Debug</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="283"/>
+        <source>Debug Overlay</source>
+        <comment>Debug</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="284"/>
+        <source>Input Debug Overlay</source>
+        <comment>Debug</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="285"/>
+        <source>Disable Video Output</source>
+        <comment>Debug</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="286"/>
+        <source>Texture LOD Bias Addend</source>
+        <comment>Debug</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="287"/>
+        <source>Take Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="288"/>
+        <source>Save Emulation State</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="289"/>
+        <source>Save Emulation State And Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="290"/>
+        <source>Reload Last Emulation State</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="291"/>
+        <source>Start/Stop Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="292"/>
+        <source>Press and hold the START button to resume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="293"/>
+        <source>Resuming...!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="294"/>
+        <source>The PS3 application has likely crashed, you can close it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="295"/>
+        <source>SaveState failed: Game saving is in progress, wait until finished.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="296"/>
+        <source>SaveState failed: VDEC-base video/cutscenes are in order, wait for them to end or enable libvdec.sprx.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="297"/>
+        <source>SaveState failed: Failed to lock SPU state, enabling SPU-Compatible mode may fix it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="298"/>
+        <source>SaveState failed: Failed to lock SPU state, using SPU ASMJIT will fix it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="299"/>
+        <source>Invalid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="300"/>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10679,7 +10997,7 @@ The export of invalid patches is not allowed.</source>
     <name>patch_manager_dialog</name>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.ui" line="17"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="998"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1003"/>
         <source>Patch Manager</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10762,93 +11080,93 @@ Make sure that all the patches located in &quot;%0&quot; contain the proper form
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="858"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="863"/>
         <source>Show Patch File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="869"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="874"/>
         <source>Remove Patch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="873"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="878"/>
         <source>Remove Patch?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="874"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="879"/>
         <source>Do you really want to remove the selected patch?
 This action is immediate and irreversible!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="885"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="890"/>
         <source>Success</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="885"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="890"/>
         <source>The patch was successfully removed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="891"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="896"/>
         <source>Failure</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="891"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="896"/>
         <source>The patch could not be removed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="905"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="910"/>
         <source>Collapse</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="916"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="921"/>
         <source>Expand Children</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="926"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="931"/>
         <source>Collapse Children</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="939"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="944"/>
         <source>Expand</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="950"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="955"/>
         <source>Expand All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="954"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="959"/>
         <source>Collapse All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="998"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1003"/>
         <source>What do you want to do with the patch file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="999"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1004"/>
         <source>Import</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1000"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1005"/>
         <source>Validate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1036"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1041"/>
         <source>
 
 Log:
@@ -10856,33 +11174,33 @@ Log:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1040"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1045"/>
         <source>Nothing to import</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1040"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1045"/>
         <source>None of the found %0 patches were imported.%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1045"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1050"/>
         <source>Import successful</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1045"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1050"/>
         <source>Imported %0/%1 patches to:
 %2%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1051"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1056"/>
         <source>Import failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1051"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1056"/>
         <source>The patch file could not be imported.
 
 Log:
@@ -10890,25 +11208,25 @@ Log:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1056"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1061"/>
         <source>Validation successful</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1056"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1061"/>
         <source>The patch file passed the validation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1066"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1071"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1279"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1076"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1284"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1289"/>
         <source>Validation failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1066"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1071"/>
         <source>Errors were found in the patch file.
 
 Log:
@@ -10916,57 +11234,57 @@ Log:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1070"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1075"/>
         <source>Errors were found in the patch file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1072"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1285"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1077"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1290"/>
         <source>To see the error log, please click &quot;Show Details&quot;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1073"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1286"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1078"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1291"/>
         <source>%0</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1144"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1149"/>
         <source>Downloading latest patches</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1178"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1270"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1183"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1275"/>
         <source>Download successful</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1178"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1183"/>
         <source>Your patch file is already up to date.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1193"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1198"/>
         <source>Update patches?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1193"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1198"/>
         <source>New patches are available.
 
 Do you want to update?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1270"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1275"/>
         <source>Your patch file is now up to date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1279"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1284"/>
         <source>Errors were found in the downloaded patch file.
 
 Log:
@@ -10974,7 +11292,7 @@ Log:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1283"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/patch_manager_dialog.cpp" line="1288"/>
         <source>Errors were found in the downloaded patch file.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14630,7 +14948,7 @@ Please contact a developer.</source>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="78"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1122"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1119"/>
         <source>Progress: %1% (%2/%3)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14814,136 +15132,136 @@ Please contact a developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="814"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="951"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="811"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="948"/>
         <source>&amp;Open Trophy Directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="834"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="831"/>
         <source>&amp;Copy Info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="838"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="835"/>
         <source>&amp;Copy Name + Description</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="848"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="979"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="845"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="976"/>
         <source>&amp;Copy Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="858"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="855"/>
         <source>&amp;Copy Description</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="877"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="874"/>
         <source>&amp;Lock Trophy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="877"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="874"/>
         <source>&amp;Unlock Trophy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="882"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="879"/>
         <source>Action not permitted.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="882"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="879"/>
         <source>Platinum trophies can only be unlocked ingame.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="925"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1192"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="922"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1189"/>
         <source>Earned</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="925"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1192"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="922"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1189"/>
         <source>Not Earned</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="929"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1190"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="926"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1187"/>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="950"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="947"/>
         <source>&amp;Remove</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="960"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="957"/>
         <source>Delete Confirmation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="960"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="957"/>
         <source>Are you sure you want to delete the trophies for:
 %1?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1023"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1020"/>
         <source>Loading trophies</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1023"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1020"/>
         <source>Loading trophy data, please wait...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1023"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1020"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1082"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1079"/>
         <source>%0% (%1/%2)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1157"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1154"/>
         <source>No</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1157"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1154"/>
         <source>Yes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1164"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1161"/>
         <source>Bronze</source>
         <comment>Trophy type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1165"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1162"/>
         <source>Silver</source>
         <comment>Trophy type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1166"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1163"/>
         <source>Gold</source>
         <comment>Trophy type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1167"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/trophy_manager_dialog.cpp" line="1164"/>
         <source>Platinum</source>
         <comment>Trophy type</comment>
         <translation type="unfinished"></translation>
