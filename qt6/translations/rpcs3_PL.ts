@@ -207,12 +207,12 @@
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="31"/>
         <source>Disc Game</source>
-        <translation type="unfinished">Gra Pudełkowa</translation>
+        <translation type="unfinished">Płyta</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="32"/>
         <source>HDD Game</source>
-        <translation type="unfinished">Gra Cyfrowa</translation>
+        <translation type="unfinished">HDD</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized.h" line="33"/>
@@ -2784,7 +2784,7 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="919"/>
         <source>Disabled</source>
         <comment>Enable TSX</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wył.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="920"/>
@@ -2802,7 +2802,7 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="927"/>
         <source>Disable Video Output</source>
         <comment>Video renderer</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyłącz Wyjście Wideo</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="928"/>
@@ -2910,7 +2910,7 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="960"/>
         <source>Off</source>
         <comment>Frame limit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wył.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="961"/>
@@ -2940,7 +2940,7 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="965"/>
         <source>Display</source>
         <comment>Frame limit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Monitor</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="966"/>
@@ -2952,19 +2952,19 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="967"/>
         <source>PS3 Native</source>
         <comment>Frame limit</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Natywny PS3</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="968"/>
         <source>Infinite</source>
         <comment>Frame limit</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nieskończony</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="974"/>
         <source>Disabled</source>
         <comment>MSAA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wył.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="975"/>
@@ -3042,7 +3042,7 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1011"/>
         <source>Disabled</source>
         <comment>Microphone handler</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wył.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1012"/>
@@ -3072,7 +3072,7 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1021"/>
         <source>Null</source>
         <comment>Keyboard handler</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brak</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1022"/>
@@ -3084,7 +3084,7 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1028"/>
         <source>Null</source>
         <comment>Mouse handler</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brak</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1029"/>
@@ -3150,7 +3150,7 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1054"/>
         <source>Null</source>
         <comment>Camera handler</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brak</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1055"/>
@@ -3168,7 +3168,7 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1062"/>
         <source>Null</source>
         <comment>Music handler</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brak</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1063"/>
@@ -3192,7 +3192,7 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1076"/>
         <source>Null</source>
         <comment>Move handler</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brak</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1077"/>
@@ -3204,7 +3204,7 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1078"/>
         <source>Mouse</source>
         <comment>Move handler</comment>
-        <translation type="unfinished">Myszka</translation>
+        <translation>Myszka</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1079"/>
@@ -3228,49 +3228,49 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1089"/>
         <source>1 controller (1-4 players)</source>
         <comment>Buzz handler</comment>
-        <translation type="unfinished"></translation>
+        <translation>1 kontroler (1-4 graczy)</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1090"/>
         <source>2 controllers (5-7 players)</source>
         <comment>Buzz handler</comment>
-        <translation type="unfinished"></translation>
+        <translation>2 kontrolery (5-7 graczy)</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1096"/>
         <source>Null</source>
         <comment>Turntable handler</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brak</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1097"/>
         <source>1 controller</source>
         <comment>Turntable handler</comment>
-        <translation type="unfinished"></translation>
+        <translation>1 kontroler</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1098"/>
         <source>2 controllers</source>
         <comment>Turntable handler</comment>
-        <translation type="unfinished"></translation>
+        <translation>2 kontrolery</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1104"/>
         <source>Null</source>
         <comment>GHLtar handler</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brak</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1105"/>
         <source>1 controller</source>
         <comment>GHLtar handler</comment>
-        <translation type="unfinished"></translation>
+        <translation>1 kontroler</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1106"/>
         <source>2 controllers</source>
         <comment>GHLtar handler</comment>
-        <translation type="unfinished"></translation>
+        <translation>2 kontrolery</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1112"/>
@@ -3948,7 +3948,7 @@ This change will only be final when you save the config.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1321"/>
         <source>Disabled</source>
         <comment>3D Display Mode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wył.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1322"/>
@@ -4457,7 +4457,7 @@ Make sure you are connected to the internet.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="124"/>
         <source>Last Played</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ostatnio Uruchamiane</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="124"/>
@@ -6184,7 +6184,7 @@ File was too small.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="47"/>
         <source>Yes</source>
         <comment>Message Dialog</comment>
-        <translation type="unfinished">Tak</translation>
+        <translation>Tak</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="48"/>
@@ -6196,7 +6196,7 @@ File was too small.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="49"/>
         <source>Back</source>
         <comment>Message Dialog</comment>
-        <translation type="unfinished">Wstecz</translation>
+        <translation>Wstecz</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="50"/>
@@ -7703,47 +7703,47 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="76"/>
         <source>Search...</source>
-        <translation type="unfinished">Wyszukaj...</translation>
+        <translation>Wyszukaj...</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="152"/>
         <source>File</source>
-        <translation type="unfinished">Plik</translation>
+        <translation>Plik</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="159"/>
         <source>Boot (S)Elf</source>
-        <translation type="unfinished">Uruchom (S)Elf</translation>
+        <translation>Uruchom (S)Elf</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="172"/>
         <source>Boot Recent</source>
-        <translation type="unfinished">Uruchom ostatnie</translation>
+        <translation>Uruchom Ostatnie</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="183"/>
         <source>All Titles</source>
-        <translation type="unfinished">Wszystkie tytuły</translation>
+        <translation>Wszystkie Tytuły</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="200"/>
         <source>Firmware</source>
-        <translation type="unfinished">Firmware</translation>
+        <translation>Firmware</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="224"/>
         <source>Emulation</source>
-        <translation type="unfinished">Emulacja</translation>
+        <translation>Emulacja</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="235"/>
         <source>Configuration</source>
-        <translation type="unfinished">Konfiguracja</translation>
+        <translation>Konfiguracja</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="239"/>
         <source>USB Devices</source>
-        <translation type="unfinished">Urządzenia USB</translation>
+        <translation>Urządzenia USB</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="252"/>
@@ -7753,42 +7753,42 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="280"/>
         <source>Manage</source>
-        <translation type="unfinished">Zarządzanie</translation>
+        <translation>Zarządzaj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="297"/>
         <source>Utilities</source>
-        <translation type="unfinished">Narzędzia</translation>
+        <translation>Narzędzia</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="323"/>
         <source>View</source>
-        <translation type="unfinished">Widok</translation>
+        <translation>Widok</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="327"/>
         <source>Game List Icons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wygląd Ikon Gier</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="339"/>
         <source>Game List Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wygląd Listy Gier</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="346"/>
         <source>Game Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorie Gier</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="378"/>
         <source>Help</source>
-        <translation type="unfinished">Pomoc</translation>
+        <translation>Pomoc</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="382"/>
         <source>Language</source>
-        <translation type="unfinished">Język</translation>
+        <translation>Język</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="415"/>
@@ -7798,7 +7798,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="453"/>
         <source>Boot SELF/ELF</source>
-        <translation type="unfinished">Uruchom SELF/ELF</translation>
+        <translation>Uruchom SELF/ELF</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="458"/>
@@ -7808,7 +7808,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="463"/>
         <source>Boot Game</source>
-        <translation type="unfinished">Uruchom grę</translation>
+        <translation>Uruchom Grę</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="468"/>
@@ -7833,7 +7833,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="484"/>
         <source>Install firmware from PS3UPDAT.PUP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zainstaluj firmware z PS3UPDAT.PUP</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="496"/>
@@ -8112,22 +8112,22 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="762"/>
         <source>Show Tool Bar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyświetl Pasek Narzędzi</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="770"/>
         <source>Show Game Compatibility in Grid Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż Kompatybilność w Trybie Siatki</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="775"/>
         <source>Game List Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odśwież Listę Gier</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="783"/>
         <source>RAP Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pliki RAP</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="788"/>
@@ -8147,7 +8147,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="803"/>
         <source>List Clear</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyczyść Listę</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="811"/>
@@ -8157,32 +8157,32 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="819"/>
         <source>Tiny</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Drobne</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="830"/>
         <source>Small</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Małe</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="838"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Średnie</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="846"/>
         <source>Large</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Duże</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="857"/>
         <source>List View</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Widok Listy</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="865"/>
         <source>Grid View</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Widok Siatki</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="877"/>
@@ -8197,49 +8197,49 @@ Subject:</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="888"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3156"/>
         <source>HDD Games</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">HDD</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="899"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3157"/>
         <source>Disc Games</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Płyta</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="910"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3158"/>
         <source>PS1 Games</source>
-        <translation type="unfinished">Gry PS1</translation>
+        <translation>Gry PS1</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="921"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3159"/>
         <source>PS2 Games</source>
-        <translation type="unfinished">Gry PS2</translation>
+        <translation>Gry PS2</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="932"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3160"/>
         <source>PSP Games</source>
-        <translation type="unfinished"></translation>
+        <translation>Gry PSP</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="943"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3161"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="954"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3162"/>
         <source>Audio/Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio/Wideo</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="965"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="3163"/>
         <source>Game Data</source>
-        <translation type="unfinished">Dane Gry</translation>
+        <translation>Dane Gry</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="976"/>
@@ -8275,37 +8275,37 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1045"/>
         <source>List</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1048"/>
         <source>Switch to list mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz na widok listy</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1057"/>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Siatka</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1060"/>
         <source>Switch to grid mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz na widok siatki</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1069"/>
         <source>Refresh</source>
-        <translation type="unfinished">Odśwież</translation>
+        <translation>Odśwież</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1072"/>
         <source>Refresh gamelist</source>
-        <translation type="unfinished">Odśwież listę gier</translation>
+        <translation>Odśwież listę gier</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1081"/>
         <source>Open</source>
-        <translation type="unfinished">Otwórz</translation>
+        <translation>Otwórz</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1084"/>
@@ -8326,7 +8326,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1108"/>
         <source>Open RSX Capture</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otwórz zrzut RSX</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1113"/>
@@ -8416,22 +8416,22 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1204"/>
         <source>Screenshots</source>
-        <translation type="unfinished">Zrzuty Ekranu</translation>
+        <translation>Zrzuty Ekranu</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1209"/>
         <source>Remove Firmware Cache</source>
-        <translation type="unfinished">Usuń pamięć podręczną firmware</translation>
+        <translation>Usuń pamięć podręczną Firmware</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1214"/>
         <source>Create Firmware Cache</source>
-        <translation type="unfinished">Utwórz pamięć podręczną firmware</translation>
+        <translation>Utwórz pamięć podręczną Firmware</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1222"/>
         <source>Create RSX Capture</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utwórz zrzut RSX</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1230"/>
@@ -8446,7 +8446,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1243"/>
         <source>Game Patches</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Łatki Gier</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1248"/>
@@ -8491,12 +8491,12 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1296"/>
         <source>Patch Creator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kreator łatek</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1301"/>
         <source>Cameras</source>
-        <translation type="unfinished">Kamerka</translation>
+        <translation>Kamera</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.ui" line="1309"/>
@@ -8810,7 +8810,8 @@ Wersja %0</translation>
         <source>Changelog:
 %0</source>
         <comment>Block for Changelog</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lista Zmian:
+%0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/main_window.cpp" line="870"/>
@@ -9857,7 +9858,7 @@ Tip: SPU floats are commented along forming instructions.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="17"/>
         <source>Configure Keyboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Konfiguruj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="46"/>
@@ -9872,12 +9873,12 @@ Tip: SPU floats are commented along forming instructions.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="87"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Odśwież</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="100"/>
         <source>Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Urządzenia Wejściowe</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="124"/>
@@ -9887,22 +9888,22 @@ Tip: SPU floats are commented along forming instructions.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="142"/>
         <source>Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguruj</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="152"/>
         <source>Configuration Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pliki konfiguracyjne</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="173"/>
         <source>Add Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dodaj Konfiguracje</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="195"/>
         <source>D-Pad</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="247"/>
@@ -9910,12 +9911,12 @@ Tip: SPU floats are commented along forming instructions.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="502"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="2063"/>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Góra</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="265"/>
         <source>W</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="296"/>
@@ -9926,12 +9927,12 @@ Tip: SPU floats are commented along forming instructions.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="2353"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="2597"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Lewo</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="314"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="327"/>
@@ -9942,12 +9943,12 @@ Tip: SPU floats are commented along forming instructions.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="2380"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="2627"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Prawo</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="345"/>
         <source>D</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="388"/>
@@ -9955,17 +9956,17 @@ Tip: SPU floats are commented along forming instructions.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="643"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="2204"/>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Dół</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="406"/>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="438"/>
         <source>Left Stick</source>
-        <translation type="unfinished"></translation>
+        <translation>Lewa gałka</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="675"/>
@@ -9976,13 +9977,13 @@ Tip: SPU floats are commented along forming instructions.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="693"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="744"/>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="716"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="764"/>
         <source>Toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="726"/>
@@ -9992,7 +9993,7 @@ Tip: SPU floats are commented along forming instructions.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="751"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="774"/>
@@ -10007,17 +10008,17 @@ Tip: SPU floats are commented along forming instructions.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="887"/>
         <source>Enable Vibration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wibracje</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="905"/>
         <source>Large</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Duże</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="915"/>
         <source>Small</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Małe</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="925"/>
@@ -10033,13 +10034,13 @@ Tip: SPU floats are commented along forming instructions.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="982"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1063"/>
         <source>x</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1012"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1089"/>
         <source>y</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1045"/>
@@ -10054,182 +10055,182 @@ Tip: SPU floats are commented along forming instructions.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1192"/>
         <source>L1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1210"/>
         <source>Q</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1223"/>
         <source>L2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1241"/>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1276"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1294"/>
         <source>Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Spacja</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1307"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1325"/>
         <source>Enter</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1384"/>
         <source>PS Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Przycisk PS</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1402"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1435"/>
         <source>R1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1453"/>
         <source>E</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1466"/>
         <source>R2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1484"/>
         <source>T</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1562"/>
         <source>L3</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1580"/>
         <source>F</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1593"/>
         <source>R3</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1611"/>
         <source>G</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1644"/>
         <source>Device Class</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Typ Urządzenia</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1677"/>
         <source>Battery status and LED</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stan Baterii oraz LED</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1717"/>
         <source>LED Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ustawienia LED</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1745"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Opis</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1780"/>
         <source>Face Buttons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Przednie klawisze</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1826"/>
         <source>Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Trójkąt</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1844"/>
         <source>V</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1875"/>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Kwadrat</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1893"/>
         <source>Z</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1906"/>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Kółko</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1924"/>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1967"/>
         <source>Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>Krzyżyk</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="1985"/>
         <source>X</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="2017"/>
         <source>Right Stick</source>
-        <translation type="unfinished"></translation>
+        <translation>Prawa gałka</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="2081"/>
         <source>PgUp</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="2130"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="2161"/>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="2222"/>
         <source>PgDown</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.ui" line="2254"/>
@@ -10269,22 +10270,22 @@ Tip: SPU floats are commented along forming instructions.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="81"/>
         <source>Gamepad Settings: [%0] %1</source>
-        <translation type="unfinished">Gamepad Settings: [%0] %1</translation>
+        <translation type="unfinished">Ustawienia Kontrolera: [%0] %1</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="85"/>
         <source>Gamepad Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ustawienia Kontrolera</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="125"/>
         <source>Player %0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gracz %0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="152"/>
         <source>Filter Noise</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtruj Szum</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="177"/>
@@ -10294,17 +10295,17 @@ Tip: SPU floats are commented along forming instructions.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="178"/>
         <source>Guitar</source>
-        <translation type="unfinished"></translation>
+        <translation>Gitara</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="179"/>
         <source>Drum</source>
-        <translation type="unfinished"></translation>
+        <translation>Perkusja</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="180"/>
         <source>DJ</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="181"/>
@@ -10325,17 +10326,17 @@ Tip: SPU floats are commented along forming instructions.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="184"/>
         <source>GunCon 3</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="185"/>
         <source>Top Shot Elite</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="186"/>
         <source>Top Shot Fearmaster</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="187"/>
@@ -10356,7 +10357,7 @@ Tip: SPU floats are commented along forming instructions.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="330"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1334"/>
         <source>[ Waiting %1 ]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[ Oczekiwanie %1 ]</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1504"/>
@@ -10372,7 +10373,7 @@ Tip: SPU floats are commented along forming instructions.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1667"/>
         <source>PS3 Controller</source>
         <comment>PlayStation 3 Controller</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontroler PS3</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1672"/>
@@ -10461,7 +10462,7 @@ Tip: SPU floats are commented along forming instructions.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1747"/>
         <source>Choose a unique name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wybierz unikalną nazwę</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1748"/>
@@ -10473,17 +10474,17 @@ Tip: SPU floats are commented along forming instructions.</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1762"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1767"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Błąd</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1757"/>
         <source>Name cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nazwa nie może być pusta</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1762"/>
         <source>Must choose a name without &apos;.&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Należy wybrać nazwę bez znaku &apos;.&apos;</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1767"/>
@@ -10508,48 +10509,48 @@ Tip: SPU floats are commented along forming instructions.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1954"/>
         <source>Null</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1955"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1979"/>
         <source>Keyboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Klawiatura</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1956"/>
         <source>DualShock 3</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1957"/>
         <source>DualShock 4</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1958"/>
         <source>DualSense</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1961"/>
         <source>XInput</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1962"/>
         <source>MMJoystick</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1965"/>
         <source>SDL</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1968"/>
         <source>Evdev</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1978"/>
@@ -10559,12 +10560,12 @@ Tip: SPU floats are commented along forming instructions.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1980"/>
         <source>DS3 Pad #%0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontroler DS3 #%0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1981"/>
         <source>DS4 Pad #%0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontroler DS4 #%0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1982"/>
@@ -10584,12 +10585,12 @@ Tip: SPU floats are commented along forming instructions.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.cpp" line="1986"/>
         <source>Joystick #%0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontroler #%0</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/pad_settings_dialog.h" line="88"/>
         <source> (disconnected)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> (odłączony)</translation>
     </message>
 </context>
 <context>
@@ -14010,7 +14011,7 @@ Each option heavily depends on the game and on your CPU, it&apos;s recommended t
         <location filename="rpcs3-master/rpcs3/rpcs3qt/settings_dialog.cpp" line="569"/>
         <source>Display (%1)</source>
         <comment>Frame Limit</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ekran (%1)</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/settings_dialog.cpp" line="586"/>
@@ -14033,23 +14034,23 @@ Each option heavily depends on the game and on your CPU, it&apos;s recommended t
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/settings_dialog.cpp" line="608"/>
         <source>Precise (Slowest)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Precise (Najwolniejszy)</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/settings_dialog.cpp" line="609"/>
         <source>Approximate (Fast)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Approximate (Szybki)</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/settings_dialog.cpp" line="610"/>
         <source>Relaxed (Fastest)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Relaxed (Najszybszy)</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/settings_dialog.cpp" line="723"/>
         <source>100% (1280x720) (Default)</source>
         <comment>Resolution scale</comment>
-        <translation type="unfinished"></translation>
+        <translation>100% (1280x720) (Domyślnie)</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/settings_dialog.cpp" line="725"/>
@@ -14061,7 +14062,7 @@ Each option heavily depends on the game and on your CPU, it&apos;s recommended t
         <location filename="rpcs3-master/rpcs3/rpcs3qt/settings_dialog.cpp" line="751"/>
         <source>%1x%1 (Default)</source>
         <comment>Minimum scalable dimension</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1x%1 (Domyślnie)</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/settings_dialog.cpp" line="753"/>
@@ -14072,7 +14073,7 @@ Each option heavily depends on the game and on your CPU, it&apos;s recommended t
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/settings_dialog.cpp" line="775"/>
         <source>%1% (Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% (Domyślnie)</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/settings_dialog.cpp" line="777"/>
@@ -14083,7 +14084,7 @@ Each option heavily depends on the game and on your CPU, it&apos;s recommended t
         <location filename="rpcs3-master/rpcs3/rpcs3qt/settings_dialog.cpp" line="844"/>
         <source>Disabled</source>
         <comment>MSAA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wył.</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/settings_dialog.cpp" line="853"/>
