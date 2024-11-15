@@ -7511,7 +7511,7 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="247"/>
         <source>Advanced</source>
-        <translation type="unfinished">Zaawansowane</translation>
+        <translation>Zaawansowane</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="248"/>
@@ -7541,7 +7541,7 @@ Subject:</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="252"/>
         <source>Max SPURS Threads</source>
         <comment>Advanced</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Max. wątków SPURS</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="253"/>
@@ -7677,7 +7677,7 @@ Subject:</source>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="275"/>
         <source>Position</source>
         <comment>Performance Overlay</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pozycja</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="276"/>
@@ -7772,17 +7772,17 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="292"/>
         <source>Progress:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Postęp:</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="293"/>
         <source>Progress: analyzing...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Postęp: analizowanie...</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="294"/>
         <source>remaining</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pozostało</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="295"/>
@@ -7792,22 +7792,22 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="296"/>
         <source>file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">plik</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="297"/>
         <source>module</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">moduł</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="298"/>
         <source>of</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">z</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="299"/>
         <source>Please wait</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Proszę czekać</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="300"/>
@@ -7827,17 +7827,17 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="303"/>
         <source>Scanning PPU Modules...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skanowanie modułów PPU...</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="304"/>
         <source>Loading PPU Modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ładowanie modułów PPU...</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="305"/>
         <source>Compiling PPU Modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompilowanie modułów PPU...</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="306"/>
@@ -7852,12 +7852,12 @@ Subject:</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="308"/>
         <source>Building SPU Cache...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tworzenie pamięci podręcznej SPU...</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="309"/>
         <source>Press and hold the START button to resume</source>
-        <translation type="unfinished">Naciśnij i przytrzymaj przycisk START, aby wznowić</translation>
+        <translation>Naciśnij i przytrzymaj przycisk START, aby wznowić</translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="310"/>
