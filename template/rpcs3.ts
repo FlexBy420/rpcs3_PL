@@ -2642,41 +2642,41 @@ File was too small.</source>
 <context>
     <name>emu_settings</name>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="112"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="132"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="165"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="172"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="109"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="129"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="162"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="169"/>
         <source>Config Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="112"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="109"/>
         <source>Failed to load default config:
 %0</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="132"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="129"/>
         <source>Failed to load global config:
 File: %0
 Error: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="165"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="172"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="162"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="169"/>
         <source>Failed to load custom config:
 File: %0
 Error: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="872"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="948"/>
         <source>Fix invalid settings?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="873"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="949"/>
         <source>Your config file contained one or more unrecognized values for settings.
 Their default value will be used until they are corrected.
 Consider that a correction might render them invalid for other versions of RPCS3.
@@ -2686,1306 +2686,1330 @@ This change will only be final when you save the config.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="903"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="979"/>
         <source>Safe</source>
         <comment>SPU block size</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="904"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="980"/>
         <source>Mega</source>
         <comment>SPU block size</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="905"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="981"/>
         <source>Giga</source>
         <comment>SPU block size</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="911"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="987"/>
         <source>RPCS3 Scheduler</source>
         <comment>Thread Scheduler Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="912"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="988"/>
         <source>RPCS3 Alternative Scheduler</source>
         <comment>Thread Scheduler Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="913"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="989"/>
         <source>Operating System</source>
         <comment>Thread Scheduler Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="919"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="995"/>
         <source>Disabled</source>
         <comment>Enable TSX</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="920"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="996"/>
         <source>Enabled</source>
         <comment>Enable TSX</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="921"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="997"/>
         <source>Forced</source>
         <comment>Enable TSX</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="927"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1003"/>
         <source>Disable Video Output</source>
         <comment>Video renderer</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="928"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1004"/>
         <source>OpenGL</source>
         <comment>Video renderer</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="929"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1005"/>
         <source>Vulkan</source>
         <comment>Video renderer</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="935"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1011"/>
         <source>Legacy (single threaded)</source>
         <comment>Shader Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="936"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1012"/>
         <source>Async (multi threaded)</source>
         <comment>Shader Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="937"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1013"/>
         <source>Async with Shader Interpreter</source>
         <comment>Shader Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="938"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1014"/>
         <source>Shader Interpreter only</source>
         <comment>Shader Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="944"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1020"/>
         <source>1080p</source>
         <comment>Resolution</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="945"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1021"/>
         <source>1080i</source>
         <comment>Resolution</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="946"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1022"/>
         <source>720p</source>
         <comment>Resolution</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="947"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1023"/>
         <source>480p</source>
         <comment>Resolution</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="948"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1024"/>
         <source>480i</source>
         <comment>Resolution</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="949"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1025"/>
         <source>576p</source>
         <comment>Resolution</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="950"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1026"/>
         <source>576i</source>
         <comment>Resolution</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="951"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1027"/>
         <source>1600x1080p</source>
         <comment>Resolution</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="952"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1028"/>
         <source>1440x1080p</source>
         <comment>Resolution</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="953"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1029"/>
         <source>1280x1080p</source>
         <comment>Resolution</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="954"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1030"/>
         <source>960x1080p</source>
         <comment>Resolution</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="960"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1036"/>
         <source>Off</source>
         <comment>Frame limit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="961"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1037"/>
         <source>30</source>
         <comment>Frame limit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="962"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1038"/>
         <source>50</source>
         <comment>Frame limit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="963"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1039"/>
         <source>60</source>
         <comment>Frame limit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="964"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1040"/>
         <source>120</source>
         <comment>Frame limit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="965"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1041"/>
         <source>Display</source>
         <comment>Frame limit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="966"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1042"/>
         <source>Auto</source>
         <comment>Frame limit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="967"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1043"/>
         <source>PS3 Native</source>
         <comment>Frame limit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="968"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1044"/>
         <source>Infinite</source>
         <comment>Frame limit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="974"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1050"/>
         <source>Disabled</source>
         <comment>MSAA</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="975"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1051"/>
         <source>Auto</source>
         <comment>MSAA</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="981"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1057"/>
         <source>Auto</source>
         <comment>Shader Precision</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="982"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1058"/>
         <source>Ultra</source>
         <comment>Shader Precision</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="983"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1059"/>
         <source>High</source>
         <comment>Shader Precision</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="984"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1060"/>
         <source>Low</source>
         <comment>Shader Precision</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="990"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1066"/>
         <source>Nearest</source>
         <comment>Output Scaling Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="991"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1067"/>
         <source>Bilinear</source>
         <comment>Output Scaling Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="992"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1068"/>
         <source>FidelityFX Super Resolution</source>
         <comment>Output Scaling Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="998"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1074"/>
         <source>Disable Audio Output</source>
         <comment>Audio renderer</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1000"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1076"/>
         <source>XAudio2</source>
         <comment>Audio renderer</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1002"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1078"/>
         <source>Cubeb</source>
         <comment>Audio renderer</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1004"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1080"/>
         <source>FAudio</source>
         <comment>Audio renderer</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1011"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1087"/>
         <source>Disabled</source>
         <comment>Microphone handler</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1012"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1088"/>
         <source>Standard</source>
         <comment>Microphone handler</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1013"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1089"/>
         <source>SingStar</source>
         <comment>Microphone handler</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1014"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1090"/>
         <source>Real SingStar</source>
         <comment>Microphone handler</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1015"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1091"/>
         <source>Rocksmith</source>
         <comment>Microphone handler</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1021"/>
-        <source>Null</source>
-        <comment>Keyboard handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1022"/>
-        <source>Basic</source>
-        <comment>Keyboard handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1028"/>
-        <source>Null</source>
-        <comment>Mouse handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1029"/>
-        <source>Basic</source>
-        <comment>Mouse handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1030"/>
-        <source>Raw</source>
-        <comment>Mouse handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1036"/>
-        <source>Unknown</source>
-        <comment>Camera type</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1037"/>
-        <source>EyeToy</source>
-        <comment>Camera type</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1038"/>
-        <source>PS Eye</source>
-        <comment>Camera type</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1039"/>
-        <source>UVC 1.1</source>
-        <comment>Camera type</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1045"/>
-        <source>No</source>
-        <comment>Camera flip</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1046"/>
-        <source>Flip horizontally</source>
-        <comment>Camera flip</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1047"/>
-        <source>Flip vertically</source>
-        <comment>Camera flip</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1048"/>
-        <source>Flip both axes</source>
-        <comment>Camera flip</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1054"/>
-        <source>Null</source>
-        <comment>Camera handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1055"/>
-        <source>Fake</source>
-        <comment>Camera handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1056"/>
-        <source>Qt</source>
-        <comment>Camera handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1062"/>
-        <source>Null</source>
-        <comment>Music handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1063"/>
-        <source>Qt</source>
-        <comment>Music handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1069"/>
-        <source>Single-threaded</source>
-        <comment>Pad handler mode</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1070"/>
-        <source>Multi-threaded</source>
-        <comment>Pad handler mode</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1076"/>
-        <source>Null</source>
-        <comment>Move handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1077"/>
-        <source>Fake</source>
-        <comment>Move handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1078"/>
-        <source>Mouse</source>
-        <comment>Move handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1079"/>
-        <source>Raw Mouse</source>
-        <comment>Move handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1081"/>
-        <source>Gun</source>
-        <comment>Gun handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1088"/>
-        <source>Null (use real Buzzers)</source>
-        <comment>Buzz handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1089"/>
-        <source>1 controller (1-4 players)</source>
-        <comment>Buzz handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1090"/>
-        <source>2 controllers (5-7 players)</source>
-        <comment>Buzz handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1096"/>
-        <source>Null</source>
-        <comment>Turntable handler</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1097"/>
-        <source>1 controller</source>
-        <comment>Turntable handler</comment>
+        <source>Null</source>
+        <comment>Keyboard handler</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1098"/>
-        <source>2 controllers</source>
-        <comment>Turntable handler</comment>
+        <source>Basic</source>
+        <comment>Keyboard handler</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1104"/>
         <source>Null</source>
-        <comment>GHLtar handler</comment>
+        <comment>Mouse handler</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1105"/>
+        <source>Basic</source>
+        <comment>Mouse handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1106"/>
+        <source>Raw</source>
+        <comment>Mouse handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1112"/>
+        <source>Unknown</source>
+        <comment>Camera type</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1113"/>
+        <source>EyeToy</source>
+        <comment>Camera type</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1114"/>
+        <source>PS Eye</source>
+        <comment>Camera type</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1115"/>
+        <source>UVC 1.1</source>
+        <comment>Camera type</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1121"/>
+        <source>No</source>
+        <comment>Camera flip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1122"/>
+        <source>Flip horizontally</source>
+        <comment>Camera flip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1123"/>
+        <source>Flip vertically</source>
+        <comment>Camera flip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1124"/>
+        <source>Flip both axes</source>
+        <comment>Camera flip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1130"/>
+        <source>Null</source>
+        <comment>Camera handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1131"/>
+        <source>Fake</source>
+        <comment>Camera handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1132"/>
+        <source>Qt</source>
+        <comment>Camera handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1138"/>
+        <source>Null</source>
+        <comment>Music handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1139"/>
+        <source>Qt</source>
+        <comment>Music handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1145"/>
+        <source>Single-threaded</source>
+        <comment>Pad handler mode</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1146"/>
+        <source>Multi-threaded</source>
+        <comment>Pad handler mode</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1152"/>
+        <source>Null</source>
+        <comment>Move handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1153"/>
+        <source>Fake</source>
+        <comment>Move handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1154"/>
+        <source>Mouse</source>
+        <comment>Move handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1155"/>
+        <source>Raw Mouse</source>
+        <comment>Move handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1157"/>
+        <source>Gun</source>
+        <comment>Gun handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1164"/>
+        <source>Null (use real Buzzers)</source>
+        <comment>Buzz handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1165"/>
+        <source>1 controller (1-4 players)</source>
+        <comment>Buzz handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1166"/>
+        <source>2 controllers (5-7 players)</source>
+        <comment>Buzz handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1172"/>
+        <source>Null</source>
+        <comment>Turntable handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1173"/>
+        <source>1 controller</source>
+        <comment>Turntable handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1174"/>
+        <source>2 controllers</source>
+        <comment>Turntable handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1180"/>
+        <source>Null</source>
+        <comment>GHLtar handler</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1181"/>
         <source>1 controller</source>
         <comment>GHLtar handler</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1106"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1182"/>
         <source>2 controllers</source>
         <comment>GHLtar handler</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1112"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1188"/>
         <source>Disconnected</source>
         <comment>Internet Status</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1113"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1189"/>
         <source>Connected</source>
         <comment>Internet Status</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1119"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1195"/>
         <source>Disconnected</source>
         <comment>PSN Status</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1120"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1196"/>
         <source>Simulated</source>
         <comment>PSN Status</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1121"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1197"/>
         <source>RPCN</source>
         <comment>PSN Status</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1127"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1203"/>
         <source>As Host</source>
         <comment>Sleep timers accuracy</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1128"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1204"/>
         <source>Usleep Only</source>
         <comment>Sleep timers accuracy</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1129"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1205"/>
         <source>All Timers</source>
         <comment>Sleep timers accuracy</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1135"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1211"/>
         <source>Fast</source>
         <comment>RSX FIFO Accuracy</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1136"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1212"/>
         <source>Atomic</source>
         <comment>RSX FIFO Accuracy</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1137"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1213"/>
         <source>Ordered &amp; Atomic</source>
         <comment>RSX FIFO Accuracy</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1138"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1214"/>
         <source>PS3</source>
         <comment>RSX FIFO Accuracy</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1144"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1220"/>
         <source>None</source>
         <comment>Detail Level</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1145"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1221"/>
         <source>Minimal</source>
         <comment>Detail Level</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1146"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1222"/>
         <source>Low</source>
         <comment>Detail Level</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1147"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1223"/>
         <source>Medium</source>
         <comment>Detail Level</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1148"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1224"/>
         <source>High</source>
         <comment>Detail Level</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1154"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1231"/>
+        <source>Minimal</source>
+        <comment>Perf Graph Detail Level</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1232"/>
+        <source>Show Min And Max</source>
+        <comment>Perf Graph Detail Level</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1233"/>
+        <source>Show 1% Low And Average</source>
+        <comment>Perf Graph Detail Level</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1234"/>
+        <source>Show All</source>
+        <comment>Perf Graph Detail Level</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1240"/>
         <source>Top Left</source>
         <comment>Performance overlay position</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1155"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1241"/>
         <source>Top Right</source>
         <comment>Performance overlay position</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1156"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1242"/>
         <source>Bottom Left</source>
         <comment>Performance overlay position</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1157"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1243"/>
         <source>Bottom Right</source>
         <comment>Performance overlay position</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1163"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1249"/>
         <source>Interpreter (static)</source>
         <comment>PPU decoder</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1164"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1250"/>
         <source>Recompiler (LLVM)</source>
         <comment>PPU decoder</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1170"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1256"/>
         <source>Interpreter (static)</source>
         <comment>SPU decoder</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1171"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1257"/>
         <source>Interpreter (dynamic)</source>
         <comment>SPU decoder</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1172"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1258"/>
         <source>Recompiler (ASMJIT)</source>
         <comment>SPU decoder</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1173"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1259"/>
         <source>Recompiler (LLVM)</source>
         <comment>SPU decoder</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1179"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1265"/>
         <source>Enter with circle</source>
         <comment>Enter button assignment</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1180"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1266"/>
         <source>Enter with cross</source>
         <comment>Enter button assignment</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1186"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1272"/>
         <source>Stereo</source>
         <comment>Audio format</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1187"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1273"/>
         <source>Surround 5.1</source>
         <comment>Audio format</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1188"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1274"/>
         <source>Surround 7.1</source>
         <comment>Audio format</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1189"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1275"/>
         <source>Manual</source>
         <comment>Audio format</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1190"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1276"/>
         <source>Automatic</source>
         <comment>Audio format</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1196"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1282"/>
         <source>Linear PCM 2 Ch. 48 kHz</source>
         <comment>Audio format flag</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1197"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1283"/>
         <source>Linear PCM 5.1 Ch. 48 kHz</source>
         <comment>Audio format flag</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1198"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1284"/>
         <source>Linear PCM 7.1 Ch. 48 kHz</source>
         <comment>Audio format flag</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1199"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1285"/>
         <source>Dolby Digital 5.1 Ch.</source>
         <comment>Audio format flag</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1200"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1286"/>
         <source>DTS 5.1 Ch.</source>
         <comment>Audio format flag</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1206"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1292"/>
         <source>None</source>
         <comment>Audio Provider</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1207"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1293"/>
         <source>CellAudio</source>
         <comment>Audio Provider</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1208"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1294"/>
         <source>RSXAudio</source>
         <comment>Audio Provider</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1214"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1300"/>
         <source>HDMI 0</source>
         <comment>Audio Avport</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1215"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1301"/>
         <source>HDMI 1</source>
         <comment>Audio Avport</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1216"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1302"/>
         <source>AV multiout</source>
         <comment>Audio Avport</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1217"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1303"/>
         <source>SPDIF 0</source>
         <comment>Audio Avport</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1218"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1304"/>
         <source>SPDIF 1</source>
         <comment>Audio Avport</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1224"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1310"/>
         <source>Auto</source>
         <comment>Audio Channel Layout</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1225"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1311"/>
         <source>Mono</source>
         <comment>Audio Channel Layout</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1226"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1312"/>
         <source>Stereo</source>
         <comment>Audio Channel Layout</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1227"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1313"/>
         <source>Stereo LFE</source>
         <comment>Audio Channel Layout</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1228"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1314"/>
         <source>Quadraphonic</source>
         <comment>Audio Channel Layout</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1229"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1315"/>
         <source>Quadraphonic LFE</source>
         <comment>Audio Channel Layout</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1230"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1316"/>
         <source>Surround 5.1</source>
         <comment>Audio Channel Layout</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1231"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1317"/>
         <source>Surround 7.1</source>
         <comment>Audio Channel Layout</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1237"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1323"/>
         <source>Japan</source>
         <comment>License Area</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1238"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1324"/>
         <source>America</source>
         <comment>License Area</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1239"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1325"/>
         <source>Europe, Oceania, Middle East, Russia</source>
         <comment>License Area</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1240"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1326"/>
         <source>Southeast Asia</source>
         <comment>License Area</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1241"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1327"/>
         <source>Korea</source>
         <comment>License Area</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1242"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1328"/>
         <source>China</source>
         <comment>License Area</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1243"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1329"/>
         <source>Other</source>
         <comment>License Area</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1249"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1335"/>
         <source>Safe</source>
         <comment>Asynchronous Queue Scheduler</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1250"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1336"/>
         <source>Fast</source>
         <comment>Asynchronous Queue Scheduler</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1256"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1342"/>
         <source>Japanese</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1257"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1343"/>
         <source>English (US)</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1258"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1344"/>
         <source>French</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1259"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1345"/>
         <source>Spanish</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1260"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1346"/>
         <source>German</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1261"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1347"/>
         <source>Italian</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1262"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1348"/>
         <source>Dutch</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1263"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1349"/>
         <source>Portuguese (Portugal)</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1264"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1350"/>
         <source>Russian</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1265"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1351"/>
         <source>Korean</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1266"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1352"/>
         <source>Chinese (Traditional)</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1267"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1353"/>
         <source>Chinese (Simplified)</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1268"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1354"/>
         <source>Finnish</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1269"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1355"/>
         <source>Swedish</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1270"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1356"/>
         <source>Danish</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1271"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1357"/>
         <source>Norwegian</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1272"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1358"/>
         <source>Polish</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1273"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1359"/>
         <source>English (UK)</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1274"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1360"/>
         <source>Portuguese (Brazil)</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1275"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1361"/>
         <source>Turkish</source>
         <comment>System Language</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1283"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1369"/>
         <source>English keyboard (US standard)</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1284"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1370"/>
         <source>Japanese keyboard</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1285"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1371"/>
         <source>Japanese keyboard (Kana state)</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1286"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1372"/>
         <source>German keyboard</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1287"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1373"/>
         <source>Spanish keyboard</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1288"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1374"/>
         <source>French keyboard</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1289"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1375"/>
         <source>Italian keyboard</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1290"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1376"/>
         <source>Dutch keyboard</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1291"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1377"/>
         <source>Portuguese keyboard (Portugal)</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1292"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1378"/>
         <source>Russian keyboard</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1293"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1379"/>
         <source>English keyboard (UK standard)</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1294"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1380"/>
         <source>Korean keyboard</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1295"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1381"/>
         <source>Norwegian keyboard</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1296"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1382"/>
         <source>Finnish keyboard</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1297"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1383"/>
         <source>Danish keyboard</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1298"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1384"/>
         <source>Swedish keyboard</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1299"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1385"/>
         <source>Chinese keyboard (Traditional)</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1300"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1386"/>
         <source>Chinese keyboard (Simplified)</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1301"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1387"/>
         <source>French keyboard (Switzerland)</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1302"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1388"/>
         <source>German keyboard (Switzerland)</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1303"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1389"/>
         <source>French keyboard (Canada)</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1304"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1390"/>
         <source>French keyboard (Belgium)</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1305"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1391"/>
         <source>Polish keyboard</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1306"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1392"/>
         <source>Portuguese keyboard (Brazil)</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1307"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1393"/>
         <source>Turkish keyboard</source>
         <comment>Keyboard Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1313"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1399"/>
         <source>Automatic (Default)</source>
         <comment>Exclusive Fullscreen Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1314"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1400"/>
         <source>Prefer borderless fullscreen</source>
         <comment>Exclusive Fullscreen Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1315"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1401"/>
         <source>Prefer exclusive fullscreen</source>
         <comment>Exclusive Fullscreen Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1321"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1407"/>
         <source>Disabled</source>
         <comment>3D Display Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1322"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1408"/>
         <source>Side-by-side</source>
         <comment>3D Display Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1323"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1409"/>
         <source>Over-under</source>
         <comment>3D Display Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1324"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1410"/>
         <source>Interlaced</source>
         <comment>3D Display Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1325"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1411"/>
         <source>Anaglyph Red-Green</source>
         <comment>3D Display Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1326"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1412"/>
         <source>Anaglyph Red-Blue</source>
         <comment>3D Display Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1327"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1413"/>
         <source>Anaglyph Red-Cyan</source>
         <comment>3D Display Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1328"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1414"/>
         <source>Anaglyph Magenta-Cyan</source>
         <comment>3D Display Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1329"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1415"/>
         <source>Anaglyph Green-Magenta (Trioscopic)</source>
         <comment>3D Display Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1330"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1416"/>
         <source>Anaglyph Amber-Blue (ColorCode 3D)</source>
         <comment>3D Display Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1336"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1422"/>
         <source>Guitar (17 frets)</source>
         <comment>Midi Device Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1337"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1423"/>
         <source>Guitar (22 frets)</source>
         <comment>Midi Device Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1338"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1424"/>
         <source>Keyboard</source>
         <comment>Midi Device Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1339"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1425"/>
         <source>Drums</source>
         <comment>Midi Device Type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1345"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1431"/>
         <source>Accurate XFloat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1346"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1432"/>
         <source>Approximate XFloat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1347"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1433"/>
         <source>Relaxed XFloat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1348"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/emu_settings.cpp" line="1434"/>
         <source>Inaccurate XFloat</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5294,33 +5318,33 @@ Notes:
 <context>
     <name>gs_frame</name>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="425"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="423"/>
         <source>Recording saved: %0</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="497"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="505"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="495"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="503"/>
         <source>Recording not possible</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="514"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="512"/>
         <source>Recording started</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="1028"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="1026"/>
         <source>Screenshot saved: %0</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="1111"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="1109"/>
         <source>Exit Game?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="1112"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/gs_frame.cpp" line="1110"/>
         <source>Do you really want to exit the game?&lt;br&gt;&lt;br&gt;Any unsaved progress will be lost!&lt;br&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5359,49 +5383,49 @@ Please increase the limit before running RPCS3.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_application.cpp" line="649"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_application.cpp" line="655"/>
         <source>Stopping emulator took too long.
 Some thread has probably deadlocked. Aborting.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_application.cpp" line="662"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_application.cpp" line="668"/>
         <source>PS3 Game/Application Is Unresponsive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_application.cpp" line="666"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_application.cpp" line="672"/>
         <source>Terminate RPCS3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_application.cpp" line="667"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_application.cpp" line="673"/>
         <source>Keep Waiting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_application.cpp" line="669"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_application.cpp" line="675"/>
         <source>Waiting for %0 second(s) already to stop emulation without success.
 Keep waiting or terminate RPCS3 unsafely at your own risk?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_application.cpp" line="708"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_application.cpp" line="714"/>
         <source>Creating Save-State / Do Not Close RPCS3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_application.cpp" line="708"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_application.cpp" line="714"/>
         <source>Please wait...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_application.cpp" line="708"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_application.cpp" line="714"/>
         <source>Hide Progress</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_application.cpp" line="713"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/gui_application.cpp" line="719"/>
         <source>%0 written, %1 second(s) passed%2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7620,46 +7644,131 @@ Subject:</source>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="292"/>
-        <source>Press and hold the START button to resume</source>
+        <source>Progress:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="293"/>
-        <source>Resuming...!</source>
+        <source>Progress: analyzing...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="294"/>
-        <source>The PS3 application has likely crashed, you can close it.</source>
+        <source>remaining</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="295"/>
-        <source>SaveState failed: Game saving is in progress, wait until finished.</source>
+        <source>done</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="296"/>
-        <source>SaveState failed: VDEC-base video/cutscenes are in order, wait for them to end or enable libvdec.sprx.</source>
+        <source>file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="297"/>
-        <source>SaveState failed: Failed to lock SPU state, enabling SPU-Compatible mode may fix it.</source>
+        <source>module</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="298"/>
-        <source>SaveState failed: Failed to lock SPU state, using SPU ASMJIT will fix it.</source>
+        <source>of</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="299"/>
-        <source>Invalid</source>
+        <source>Please wait</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="300"/>
+        <source>Stopping. Please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="301"/>
+        <source>Scanning PPU Executable...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="302"/>
+        <source>Analyzing PPU Executable...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="303"/>
+        <source>Scanning PPU Modules...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="304"/>
+        <source>Loading PPU Modules...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="305"/>
+        <source>Compiling PPU Modules...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="306"/>
+        <source>Linking PPU Modules...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="307"/>
+        <source>Applying PPU Code...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="308"/>
+        <source>Building SPU Cache...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="309"/>
+        <source>Press and hold the START button to resume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="310"/>
+        <source>Resuming...!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="311"/>
+        <source>The PS3 application has likely crashed, you can close it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="312"/>
+        <source>SaveState failed: Game saving is in progress, wait until finished.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="313"/>
+        <source>SaveState failed: VDEC-base video/cutscenes are in order, wait for them to end or enable libvdec.sprx.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="314"/>
+        <source>SaveState failed: Failed to lock SPU state, enabling SPU-Compatible mode may fix it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="315"/>
+        <source>SaveState failed: Failed to lock SPU state, using SPU ASMJIT will fix it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="316"/>
+        <source>Invalid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="317"/>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
