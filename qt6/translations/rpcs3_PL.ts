@@ -359,11 +359,11 @@
     <name>QMessageBox</name>
     <message>
         <source>Show Details...</source>
-        <translation type="vanished">Pokaż Szczegóły...</translation>
+        <translation>Pokaż Szczegóły...</translation>
     </message>
     <message>
         <source>Hide Details...</source>
-        <translation type="vanished">Ukryj Szczegóły...</translation>
+        <translation>Ukryj Szczegóły...</translation>
     </message>
 </context>
 <context>
@@ -404,35 +404,35 @@ Terminating...</source>
     <name>QPlatformTheme</name>
     <message>
         <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Tak</translation>
+        <translation>&amp;Tak</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="vanished">&amp;Nie</translation>
+        <translation>&amp;Nie</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="vanished">Zapisz</translation>
+        <translation>Zapisz</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="vanished">Zastosuj</translation>
+        <translation>Zastosuj</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation type="vanished">Przywróć domyślne</translation>
+        <translation>Przywróć domyślne</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="vanished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
