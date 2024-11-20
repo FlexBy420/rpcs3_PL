@@ -369,6 +369,22 @@
 <context>
     <name>QObject</name>
     <message>
+        <location filename="rpcs3-master/rpcs3/main.cpp" line="1102"/>
+        <source>RPCS3 should never be run from a temporary location!
+Please install RPCS3 in a persistent location.
+Current location:
+%0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/main.cpp" line="1115"/>
+        <source>RPCS3 should never be run from an archive!
+Please install RPCS3 in a persistent location.
+Current location:
+%0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="rpcs3-master/rpcs3/main.cpp" line="1239"/>
         <source>Invalid command-line arguments!</source>
         <translation type="unfinished"></translation>
@@ -397,6 +413,16 @@ Terminating...</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/debugger_frame.cpp" line="719"/>
         <source>Cannot perform SPU capture due to the thread needing manual pausing!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="250"/>
+        <source>Tracking not supported!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="250"/>
+        <source>The PS Move tracking is not yet supported on this operating system.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11767,87 +11793,87 @@ W razie potrzeby zmień ich kolejność i/lub wyklucz je, a następnie kliknij &
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="59"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="60"/>
         <source>RGBA</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="60"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="61"/>
         <source>RAW8</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="73"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="74"/>
         <source>Image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="74"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="75"/>
         <source>Grayscale</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="75"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="76"/>
         <source>HSV Hue</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="76"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="77"/>
         <source>HSV Saturation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="77"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="78"/>
         <source>HSV Value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="78"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="79"/>
         <source>Binary</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="79"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="80"/>
         <source>Contours</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="91"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="92"/>
         <source>Hues</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="200"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="201"/>
         <source>PS Move #%0</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="274"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="283"/>
         <source>Color: R=%0, G=%1, B=%2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="314"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="323"/>
         <source>Hue: %0</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="334"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="343"/>
         <source>Hue Threshold: %0</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="345"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="354"/>
         <source>Saturation Threshold: %0</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="355"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="364"/>
         <source>Min Radius: %0 %</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="366"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/ps_move_tracker_dialog.cpp" line="375"/>
         <source>Max Radius: %0 %</source>
         <translation type="unfinished"></translation>
     </message>
