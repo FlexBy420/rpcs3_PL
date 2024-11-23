@@ -4514,11 +4514,11 @@ Make sure you are connected to the internet.</source>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="129"/>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2299"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2386"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2443"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2495"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2549"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2608"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2385"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2442"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2494"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2548"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2607"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5188,118 +5188,118 @@ Your configuration will revert to the global pad settings.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2323"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2322"/>
         <source>%0
 Progress: %1/%2. Compiling caches for VSH...</source>
         <comment>Second line after main label</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2339"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2338"/>
         <source>%0
 Progress: %1/%2. Compiling caches for %3...</source>
         <comment>Second line after main label</comment>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2357"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2356"/>
         <source>Created LLVM Caches for %n title(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2358"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2415"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2472"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2524"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2578"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2637"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2357"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2414"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2471"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2523"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2577"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2636"/>
         <source>OK</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2382"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2386"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2381"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2385"/>
         <source>PPU Cache Batch Removal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2382"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2439"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2491"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2545"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2604"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2381"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2438"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2490"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2544"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2603"/>
         <source>No files found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2386"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2385"/>
         <source>Removing all PPU caches</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2414"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2471"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2413"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2470"/>
         <source>%0/%1 caches cleared</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2439"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2443"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2438"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2442"/>
         <source>SPU Cache Batch Removal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2443"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2442"/>
         <source>Removing all SPU caches</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2491"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2495"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2490"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2494"/>
         <source>Custom Configuration Batch Removal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2495"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2494"/>
         <source>Removing all custom configurations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2523"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2522"/>
         <source>%0/%1 custom configurations cleared</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2545"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2549"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2544"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2548"/>
         <source>Custom Pad Configuration Batch Removal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2549"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2548"/>
         <source>Removing all custom pad configurations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2577"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2576"/>
         <source>%0/%1 custom pad configurations cleared</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2604"/>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2608"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2603"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2607"/>
         <source>Shader Cache Batch Removal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2608"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2607"/>
         <source>Removing all shader caches</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2636"/>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/game_list_frame.cpp" line="2635"/>
         <source>%0/%1 shader caches cleared</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7666,151 +7666,156 @@ Subject:</source>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="288"/>
-        <source>Save Emulation State</source>
+        <source>SaveState</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="289"/>
-        <source>Save Emulation State And Exit</source>
+        <source>Save Emulation State</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="290"/>
-        <source>Reload Last Emulation State</source>
+        <source>Save Emulation State And Exit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="291"/>
-        <source>Start/Stop Recording</source>
+        <source>Reload Last Emulation State</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="292"/>
-        <source>Progress:</source>
+        <source>Start/Stop Recording</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="293"/>
-        <source>Progress: analyzing...</source>
+        <source>Progress:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="294"/>
-        <source>remaining</source>
+        <source>Progress: analyzing...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="295"/>
-        <source>done</source>
+        <source>remaining</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="296"/>
-        <source>file</source>
+        <source>done</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="297"/>
-        <source>module</source>
+        <source>file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="298"/>
-        <source>of</source>
+        <source>module</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="299"/>
-        <source>Please wait</source>
+        <source>of</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="300"/>
-        <source>Stopping. Please wait...</source>
+        <source>Please wait</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="301"/>
-        <source>Scanning PPU Executable...</source>
+        <source>Stopping. Please wait...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="302"/>
-        <source>Analyzing PPU Executable...</source>
+        <source>Scanning PPU Executable...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="303"/>
-        <source>Scanning PPU Modules...</source>
+        <source>Analyzing PPU Executable...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="304"/>
-        <source>Loading PPU Modules...</source>
+        <source>Scanning PPU Modules...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="305"/>
-        <source>Compiling PPU Modules...</source>
+        <source>Loading PPU Modules...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="306"/>
-        <source>Linking PPU Modules...</source>
+        <source>Compiling PPU Modules...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="307"/>
-        <source>Applying PPU Code...</source>
+        <source>Linking PPU Modules...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="308"/>
-        <source>Building SPU Cache...</source>
+        <source>Applying PPU Code...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="309"/>
-        <source>Press and hold the START button to resume</source>
+        <source>Building SPU Cache...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="310"/>
-        <source>Resuming...!</source>
+        <source>Press and hold the START button to resume</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="311"/>
-        <source>The PS3 application has likely crashed, you can close it.</source>
+        <source>Resuming...!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="312"/>
-        <source>SaveState failed: Game saving is in progress, wait until finished.</source>
+        <source>The PS3 application has likely crashed, you can close it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="313"/>
-        <source>SaveState failed: VDEC-base video/cutscenes are in order, wait for them to end or enable libvdec.sprx.</source>
+        <source>SaveState failed: Game saving is in progress, wait until finished.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="314"/>
-        <source>SaveState failed: Failed to lock SPU state, enabling SPU-Compatible mode may fix it.</source>
+        <source>SaveState failed: VDEC-base video/cutscenes are in order, wait for them to end or enable libvdec.sprx.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="315"/>
-        <source>SaveState failed: Failed to lock SPU state, using SPU ASMJIT will fix it.</source>
+        <source>SaveState failed: Failed to lock SPU state, enabling SPU-Compatible mode may fix it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="316"/>
-        <source>Invalid</source>
+        <source>SaveState failed: Failed to lock SPU state, using SPU ASMJIT will fix it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="317"/>
+        <source>Invalid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3-master/rpcs3/rpcs3qt/localized_emu.h" line="318"/>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
